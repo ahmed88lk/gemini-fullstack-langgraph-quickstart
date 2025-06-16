@@ -8,6 +8,7 @@ from langgraph.graph import StateGraph
 from langgraph.graph import START, END
 from langchain_core.runnables import RunnableConfig
 from google.genai import Client
+from langchain_google_vertexai import ChatVertexAI
 
 from agent.state import (
     OverallState,
@@ -235,11 +236,20 @@ def finalize_answer(state: OverallState, config: RunnableConfig):
 
     # Format the prompt
     current_date = get_current_date()
-    formatted_prompt = answer_instructions.format(
+    
+    # Enhanced prompt with specific requirements for Deal Summary
+    research_topic = get_research_topic(state["messages"])
+    enhanced_prompt = f"""
+    {answer_instructions.format(
         current_date=current_date,
-        research_topic=get_research_topic(state["messages"]),
+        research_topic=research_topic,
         summaries="\n---\n\n".join(state["web_research_result"]),
-    )
+    )}
+    
+    IMPORTANT: In your final report, make sure to include the following sections with detailed information:
+    
+    1. DEAL SUMMARY REPORT:
+    """
 
     # init Reasoning Model, default to Gemini 2.5 Flash
     llm = ChatGoogleGenerativeAI(
@@ -248,7 +258,7 @@ def finalize_answer(state: OverallState, config: RunnableConfig):
         max_retries=2,
         api_key=os.getenv("GEMINI_API_KEY"),
     )
-    result = llm.invoke(formatted_prompt)
+    result = llm.invoke(enhanced_prompt)
 
     # Replace the short urls with the original urls and add all used urls to the sources_gathered
     unique_sources = []

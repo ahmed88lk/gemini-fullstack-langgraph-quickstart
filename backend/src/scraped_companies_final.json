@@ -1,0 +1,3233 @@
+{
+  "portfolios": [
+    {
+      "Investor_portfolio_url": "https://www.cvc.com/portfolio/our-portfolio/",
+      "Investor": "Cvc",
+      "Portfolio_description": "Cvc investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": null,
+          "target_company_name": "AHAM Capital",
+          "target_location": null,
+          "target_country": "Malaysia",
+          "target_sectors": "Financial Services",
+          "target_business_description": "Since its inception in 2001, AHAM Capital - formerly Affin Hwang Asset Management - has grown to become one of Malaysia's leading asset management firms. The company has a diverse client base of public and private companies, institutions, pension funds, and individual investors.",
+          "investment_date": "2022",
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Acronis",
+          "target_location": null,
+          "target_country": "Switzerland",
+          "target_sectors": "Technology",
+          "target_business_description": "Founded in 2003, Acronis provides mission-critical solutions to more than 20,000 MSPs and 750,000 small and medium businesses. The company's Cyber Protect product is the first unified cybersecurity and data protection solution that is natively integrated, so service providers can operate these critical functions through a single pane of glass, delivering comprehensive cyber protection at a lower cost.",
+          "investment_date": "2021",
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://activa.fr/investments",
+      "Investor": "Activa",
+      "Portfolio_description": "Activa investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": null,
+          "target_company_name": "Arche MC2",
+          "target_location": "Aix-en-Provence (13), France",
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": "Leading player in the digitalization of social action, medico-social services, and personal care services. Born from the merger of Medisys and Cityzen in March 2021.",
+          "investment_date": null,
+          "investment_type": "Primary MBI",
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "GO! FORMATIONS",
+          "target_location": "Toul (54), France",
+          "target_country": null,
+          "target_sectors": "Training services + Safety Industry",
+          "target_business_description": "Provides regulatory and business-specific training courses. Targeting the industrial, construction, and transport-logistics sectors, GO! Formations teaches +38 000 trainees a year, across 12 different centers.",
+          "investment_date": "February 2024",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": "Active",
+          "fund": "Activa"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Rhétorès Finance",
+          "target_location": "Paris (75), France",
+          "target_country": null,
+          "target_sectors": "Financial advisory",
+          "target_business_description": "A rapidly expanding financial advisory firm founded in 2011 by Stéphane Rudzinski and Grégory Soudjoukdjian.",
+          "investment_date": "February 2022",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": "Partners",
+          "fund": "Activa investments"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Ingeliance",
+          "target_location": "Mérignac (33), France",
+          "target_country": null,
+          "target_sectors": "R&D Services + Engineering; Naval, Aerospace & Defense, Energy & Transportation and Process Industries",
+          "target_business_description": "Founded in 1998, Ingeliance provides engineering and technology consulting solutions focused on four main business sectors: Naval, Aerospace & Defense, Energy & Transportation and Process Industries.",
+          "investment_date": "March 2020",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": "Active",
+          "fund": "Activa"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Mecadaq Group",
+          "target_location": "Tarnos (40), France",
+          "target_country": null,
+          "target_sectors": "Industrial Services + Aerospace",
+          "target_business_description": "A leading company specialised in the manufacturing and assembly of high-precision mechanical components for the main aircraft manufacturers of the civil aerospace industry. Activa supports the market consolidation through targeted acquisitions, expanding the operations and capabilities of Mecadaq both in France and the USA.",
+          "investment_date": "December 2015",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": "Partners",
+          "fund": "Activa"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "LOOK Cycle",
+          "target_location": "Nevers (58), France",
+          "target_country": null,
+          "target_sectors": "Innovation + Sports industry, Cycling",
+          "target_business_description": "A pioneer in carbon technology founded on decades of experience at the highest levels of sport, LOOK Cycle is an innovator and global leader in the design and manufacturing of bicycles and clipless pedals. LOOK Cycle is acknowledged as one of the most innovative French companies in the cycling sector, dedicating more than 10% of its revenue to research and innovation. The company holds a portfolio of over 230 patents and has been awarded the trophy for the most innovative company in the sports sector in France.",
+          "investment_date": "June 2016",
+          "investment_type": "Primary MBI",
+          "investment_amount": null,
+          "status": "Active (implied, as the partnership aims to accelerate growth)",
+          "fund": "Activa Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "BSK Immobilier",
+          "target_location": "Toulouse (31), France",
+          "target_country": null,
+          "target_sectors": "Technology + Real Estate",
+          "target_business_description": "One of the leading digital real estate agent networks in France and a standout in the French digital real estate sector, providing agents with advanced services and tools.",
+          "investment_date": "January 2022",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": "Active",
+          "fund": "Activa Investments"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Willing",
+          "target_location": "Toulouse (31), France",
+          "target_country": null,
+          "target_sectors": "Transformation Services + Digital",
+          "target_business_description": "Founded in 2016, Willing is a sustainable transformation and performance consulting firm. It has rapidly grown organically to become a key player in the market, boasting local reach through its 9 agencies and +200 employees.",
+          "investment_date": "September 2022",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": "Active",
+          "fund": "Activa investments"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "MAD",
+          "target_location": "Paris (75), France",
+          "target_country": null,
+          "target_sectors": "Strategy Consulting + Luxury Industry",
+          "target_business_description": "A leading strategy consulting firm dedicated to the luxury industry. The firm employs +60 consultants from +8 nationalities, located in Paris and China, and provides unique expertise to address Brand, Product Offering, Distribution, and Talent issues for all major global luxury product and high-end experiential groups.",
+          "investment_date": "November 2023",
+          "investment_type": "Primary MBO",
+          "investment_amount": "Not specified",
+          "status": "Active",
+          "fund": "Activa"
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://www.mavencp.com/our-portfolio/",
+      "Investor": "Mavencp",
+      "Portfolio_description": "Mavencp investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": null,
+          "target_company_name": "ORCHA",
+          "target_location": "Cheshire",
+          "target_country": "UK",
+          "target_sectors": [
+            "Healthcare"
+          ],
+          "target_business_description": "A global leader in assessing and distributing digital health technologies, enabling private, local, and national health systems to confidently prescribe healthcare solutions and apps to patients. Holds the world’s largest active digital health data set, containing 6 million data points. It is continuously updated through an AI-powered review of over 350,000 products, categorised across multiple domains and against 350+ objective criteria to maintain an updated database of 17,000 digital health product assessments.",
+          "investment_date": "March 2022",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "CB Technology (CBT)",
+          "target_location": null,
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology",
+            "Industrial",
+            "Semiconductor"
+          ],
+          "target_business_description": "An established contract electronics manufacturer, CBT focuses on complex manufacturing and testing for deployment in harsh environments. The business predominately assembles and tests high-end printed circuit boards for use throughout the industrial and semiconductor sectors, supplying a range of UK and international blue chip customers with complex electronics that must function reliably under extremes of temperature, pressure and vibration.",
+          "investment_date": "December 2014",
+          "investment_type": "MBI (Management Buyout)",
+          "investment_amount": null,
+          "status": "Realised",
+          "fund": [
+            "Private Equity",
+            "Growth Capital"
+          ]
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Candle Shack",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Services",
+            "eCommerce"
+          ],
+          "target_business_description": "Candle Shack is a rapidly growing eCommerce business supplying candle making components as well as providing contract manufacture for high profile, luxury candle brands. The business has enjoyed strong sales growth over recent years benefiting from its focus on the premium markets and building a large and loyal customer base due to its reputation for high quality products and excellent customer support. The Company provides everything for an artisan manufacturer to make high quality candles, including fragrances, waxes, wicks, glassware, and bespoke branded packaging. In addition, Candle Shack serves clients who require contract candle manufacturing services where the company deploys state of the art technology and artisan craftsmanship to produce candles for some of the world’s leading luxury brands.",
+          "investment_date": "September 2021",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Quorum Cyber",
+          "target_location": "Edinburgh",
+          "target_country": null,
+          "target_sectors": [
+            "Services",
+            "Cyber Security"
+          ],
+          "target_business_description": "Provides professional and managed security services including a fully managed detect and response capability that enables clients to operate confidently in an increasingly hostile environment.",
+          "investment_date": "June 2020",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Realised",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Bright Network",
+          "target_location": "London",
+          "target_country": null,
+          "target_sectors": [
+            "Services",
+            "Media Technology"
+          ],
+          "target_business_description": "A high-growth, media technology platform which connects ambitious young people from all backgrounds with blue-chip employers for the brightest career opportunities, bringing together two sides of the job market together in dynamic new ways.",
+          "investment_date": "July 2018",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Delio",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology",
+            "FinTech"
+          ],
+          "target_business_description": "Delio offers a white label software solution that helps global financial institutions enhance and improve their client systems. Delio works with banks, wealth managers, family offices, angel networks, and investment funds to deliver customised technology platforms that optimise the distribution, transacting and reporting of investment opportunities to their investors.  An integrated digital toolkit drives efficiency, grows revenues and improves the client experience in a robust and compliant manner.",
+          "investment_date": "August 2019",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Acton Banks",
+          "target_location": "UK",
+          "target_country": "UK",
+          "target_sectors": [
+            "Healthcare"
+          ],
+          "target_business_description": "Leading supplier of healthcare assistants, registered nurses and theatre staff across the UK to both private and NHS, care homes and hospitals. Established in 2006, Acton Banks has become one of the country's largest and most respected healthcare staffing providers. Operating 24 hours per day, 7 days per week, Acton's services provide a valuable solution to the supply and demand pressures being felt in the healthcare sector for trained and qualified staff, having built up a comprehensive network of healthcare professionals across a range of specialisms.",
+          "investment_date": "October 2018",
+          "investment_type": "MBO (Management Buyout)",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Private Equity Buyout Fund"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Adimo",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Adimo provides FMCG brands with the functionality to natively embed commerce functionality into digital media and content. This solution helps clients shorten the path to purchase and maximise customer conversions. Adimo's analytics and sales tracking platform provides its brand partners, who include Nestle, Arla, Danone, Fever-Tree and Bacardi, with real time insights into their shoppable campaigns. From retailer selection, right through to transaction values and products sold.",
+          "investment_date": "February 2021",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Adler and Allan",
+          "target_location": "Harrogate",
+          "target_country": "UK",
+          "target_sectors": [
+            "Services",
+            "Environmental services"
+          ],
+          "target_business_description": "A leading UK environmental services business that helps public and private sector businesses understand and manage their environmental risks, reducing the impact on the environment, their operation and their reputation.",
+          "investment_date": "June 2007",
+          "investment_type": "Private Equity",
+          "investment_amount": "Undisclosed",
+          "status": "Realised",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "AMufacture",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology",
+            "marine",
+            "automotive",
+            "renewable energy",
+            "sports",
+            "healthcare"
+          ],
+          "target_business_description": "AMufacture provides value-added in-house manufacturing and associated services for a wide range of clients, specialising in 3D printed parts, composite tooling, as well as computer-aided design (CAD) and design optimisation. AMufacture partners with businesses as an extension to their workflow, offering end-to-end production services that range from project inception, consultation, and design optimisation to prototype development, ramp-up, and scale production.\nIts innovative services are utlised across multiple industries, including marine, automotive, renewable energy, sports, and healthcare sectors. It offers a cost-effective, efficient, and sustainable production solution for clients, resulting in shorter lead times and the capability to deliver complex parts in volume without relying on global supply chains or facing the limitations of conventional manufacturing.",
+          "investment_date": "December 2023",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Attraction World",
+          "target_location": "Midlands, UK",
+          "target_country": "UK",
+          "target_sectors": [
+            "Services"
+          ],
+          "target_business_description": "One of the UK’s largest theme park ticket specialists, supplying many of the world’s leading travel brands. They enable customers to pre-book tickets for attractions in over 50 countries, including amusement parks, sightseeing tours, theatre shows and experience days.",
+          "investment_date": "December 2010",
+          "investment_type": "Management Buyout (MBO), Growth Capital",
+          "investment_amount": null,
+          "status": "Realised",
+          "fund": "Private Equity, Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Automated Analytics",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "A sales and marketing platform which specialises in closing the loop on the tracking of online clicks to offline conversions, enabling better campaign optimisation. Attributing online clicks to offline conversions has been notoriously difficult to quantify, however Automated Analytics innovative tools bridge this gap, empowering businesses to attract, engage and maintain relationships with customers.Automated Analytics has developed a technology platform that addresses a genuine data gap between online click and offline conversion.",
+          "investment_date": "March 2021",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "BioAscent",
+          "target_location": "Glasgow",
+          "target_country": null,
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "BioAscent's service supports pharmaceutical companies during the discovery phase, to help identify potential drug candidates for preclinical trials and test the interaction of a drug against over 1 million chemical compounds, providing a detailed profile of the absorption, distribution, metabolism and toxicity of a drug.",
+          "investment_date": "June 2018",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Blackdot Solutions",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Blackdot Solutions is a leading provider of advanced intelligence and investigations software. The company has developed Videris, a powerful SaaS platform designed to revolutionise how organisations gather, analyse, and visualise data from public and proprietary sources. Trusted by a growing international client base including government, law enforcement, and large corporates, Videris empowers users to quickly and efficiently conduct secure investigations to identify threats, mitigate risk, and ensure compliance with complex regulatory standards.",
+          "investment_date": "February 2025",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Blacktrace",
+          "target_location": "near Cambridge",
+          "target_country": null,
+          "target_sectors": [
+            "Healthcare"
+          ],
+          "target_business_description": "develops and sells cutting edge scientific instrumentation and products",
+          "investment_date": "April 2016",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Realised",
+          "fund": "Private Equity"
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://yfmep.com/portfolio",
+      "Investor": "Yfmep",
+      "Portfolio_description": "Yfmep investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": null,
+          "target_company_name": "YFM Equity Partners",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://ikpartners.com/investments/",
+      "Investor": "Ikpartners",
+      "Portfolio_description": "Ikpartners investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": null,
+          "target_company_name": "Ampelmann",
+          "target_location": null,
+          "target_country": "Netherlands",
+          "target_sectors": "Business Services",
+          "target_business_description": "High-tech company focusing on the development, construction, rental and sale of offshore access solutions.  Develops and operates motion compensated gangway (“MCG”) systems which actively compensate for vessel motions at sea to enable cost-effective, fast and safe access between vessels, and between vessels and offshore structures, in challenging conditions.",
+          "investment_date": "Aug-13",
+          "investment_type": "Private Equity Investment",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "IK VII"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Batisanté",
+          "target_location": "Neuilly-Plaisance, France",
+          "target_country": "France",
+          "target_sectors": [
+            "Consumer (Compliance and safety services for residential and professional buildings)"
+          ],
+          "target_business_description": "Leading compliance and safety services provider, servicing residential and professional buildings. The Company manages around 500 technicians that visit approximately five buildings a day. Offers a wide range of services organised around four pillars critical for the maintenance of buildings: fire solutions, pest control, diagnostics and maintenance works.",
+          "investment_date": "Jul-22",
+          "investment_type": "Majority stake acquisition",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "IK IX"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "GO! Formations",
+          "target_location": "Toul (54), France",
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": "Founded in 2004 by Thierry Mangin, GO! Formations has grown organically since its inception and has a leadership position in the CACES industry in France’s Grand Est region. The company provides regulatory and business-specific training courses to the industrial, construction, and transport-logistics sectors, teaching +38,000 trainees a year across 12 centers.",
+          "investment_date": "February 2024",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Rhétorès Finance",
+          "target_location": "Paris (75), France",
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": "Founded in 2011 in Paris by Stéphane Rudzinski and Grégory Soudjoukdjian, Rhétorès Finance is a rapidly expanding financial advisory firm. Activa’s strategy with Rhétorès Finance is to support the firm's strong ambitions for both organic and external growth while implementing comprehensive digitalisation of their services.",
+          "investment_date": "February 2022",
+          "investment_type": "Primary MBO",
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://www.foresight.group/growing-companies/portfolio",
+      "Investor": "Foresight",
+      "Portfolio_description": "Foresight investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": null,
+          "target_company_name": "AMT",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "AmWorld",
+          "target_location": [
+            "1 Blackthorne Road, Colnbrook, Berkshire SL3 0SB",
+            "Unit 1, Riverside Cargo Centre, Mathisen Way, Colnbrook SL3 0HF",
+            "Unit 7, Woodside Industrial Estate, Woodside Road, Eastleigh, SO50 4ET"
+          ],
+          "target_country": "UK",
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Aquasium Technology Ltd",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "ATL Turbine Services",
+          "target_location": null,
+          "target_country": "United Kingdom",
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Audioscenic",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Becketts",
+          "target_location": [
+            "Dettingen House, Dettingen Way, Bury St. Edmunds, Suffolk, IP33 3TU",
+            "Connexions, 159 Princes Street, Ipswich, IP1 1QJ",
+            "St Thomas House, St Andrews Business Park, Norwich, Norfolk, NR7 0HR"
+          ],
+          "target_country": "United Kingdom",
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": "Active",
+          "fund": [
+            "Blenheim range of funds (managed by Beckett Asset Management)",
+            "BAM Model Portfolios (managed by Beckett Asset Management)"
+          ]
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Foresight Solar Fund Limited (FSFL)",
+          "target_location": "Primarily based in the UK, with an international portfolio of assets including projects in Spain.",
+          "target_country": "UK",
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": "2013 (listed on London Stock Exchange)",
+          "investment_type": "Listed Investment Trust, investing directly in operational and development-stage solar and battery storage assets.",
+          "investment_amount": "Over £1 billion deployed in solar and battery storage assets.",
+          "status": "Active, Listed",
+          "fund": "Foresight Solar Fund Limited (FSFL)"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "FWT",
+          "target_location": "London, SE1 9SG",
+          "target_country": "UK",
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": "Early-stage equity, EIS (Enterprise Investment Scheme)",
+          "investment_amount": null,
+          "status": "Active (Operating Fund)",
+          "fund": "Foresight WAE Technology funds"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Italian Green Bond Fund",
+          "target_location": "Piazza Barberini, 52, 00187 Roma, Italy",
+          "target_country": "Italy",
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": "December 2017 (Investment Memorandum date)",
+          "investment_type": "Direct Lending, Bond Fund",
+          "investment_amount": null,
+          "status": "Active",
+          "fund": "Italian Green Bond Fund"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "FGEN (Foresight Environmental Infrastructure)",
+          "target_location": "Guernsey (registered), portfolio across UK and mainland Europe",
+          "target_country": "Guernsey",
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": "Private infrastructure asset investments (equity-like, as an investment company)",
+          "investment_amount": "£720.1m (Net Asset Value of portfolio)",
+          "status": "Active, public company, premium listing on London Stock Exchange, FTSE 250 constituent",
+          "fund": "Foresight Environmental Infrastructure (operating as an investment company/fund)"
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://www.bgf.co.uk/portfolio/",
+      "Investor": "Bgf",
+      "Portfolio_description": "Bgf investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/",
+          "target_company_name": "3sun Group",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": "Climate & Sustainability",
+          "target_business_description": "3sun Group is a specialist provider of products and services to the global renewable energy industry.",
+          "investment_date": "2014",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "A Wilderness Way",
+          "target_location": "North West",
+          "target_country": "UK",
+          "target_sectors": "Healthcare",
+          "target_business_description": "A Wilderness Way provides high-acuity residential care and crisis intervention services for vulnerable young people. Its approach focuses on developing young people’s confidence through outdoor adventure activities and re-engagement in learning through its individualised education programme.",
+          "investment_date": "2020",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/benefex/",
+          "target_company_name": "Benefex",
+          "target_location": "South West",
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Benefex helps companies large and small to design, implement and manage their employee benefit and rewards schemes through technology solutions.",
+          "investment_date": "2011",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/bhr-group/",
+          "target_company_name": "BHR Group",
+          "target_location": "Midlands",
+          "target_country": "UK",
+          "target_sectors": "Specialist Manufacturing",
+          "target_business_description": "BHR Group provides engineering consultancy, industrial research and product development services related to fluids engineering. It works with customers across many industrial sectors around the world, including Sellafield, GSK and Shell.",
+          "investment_date": "2014",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/biocity-group/",
+          "target_company_name": "BioCity Group",
+          "target_location": "Midlands",
+          "target_country": "UK",
+          "target_sectors": "Life Sciences",
+          "target_business_description": "BioCity is the UK’s largest life science incubation business, providing specialist workspace for growing life science companies, including access to high-end equipment, shared services and training, as well as business advice through its expert network.",
+          "investment_date": "2019 - 2021",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Blue Light Card",
+          "target_location": "Midlands",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Healthcare"
+          ],
+          "target_business_description": "Blue Light Card develops a tech-enabled, closed group, discount market place and omnichannel marketing solution for its Retailer Partners. It brings thousands of preferential discounts to verified members in the NHS, Emergency Services, Armed Forces and Social Care.",
+          "investment_date": "2019 - 2022",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/brindley-healthcare/",
+          "target_company_name": "Brindley Healthcare",
+          "target_location": "Republic of Ireland",
+          "target_country": "Ireland",
+          "target_sectors": "Healthcare",
+          "target_business_description": "Brindley Healthcare is one of Ireland’s largest privately-owned nursing home groups with a reputation for providing the highest standards of elderly care. It was established by entrepreneur Amanda Torrens in 2000 with a 35-bed nursing home in County Donegal.",
+          "investment_date": "2019 - 2020",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/brownhills-glass/",
+          "target_company_name": "Brownhills Glass",
+          "target_location": "Midlands (expanded to North East)",
+          "target_country": "United Kingdom",
+          "target_sectors": "Specialist Manufacturing",
+          "target_business_description": "Brownhills specialises in bespoke glass processing according to the specifications of architects, builders, interior designers and private home owners, in addition to providing glass merchanting services to independent DGU manufacturers.",
+          "investment_date": "2015",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited (2018)",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/campion-homes/",
+          "target_company_name": "Campion Homes",
+          "target_location": "Scotland",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Infrastructure",
+            "Construction & Property"
+          ],
+          "target_business_description": "Campion Homes is a family-owned Scottish housebuilder of both private residential and affordable homes. Since 1989, the company has build homes across Fife, the Lothians, Clackmannanshire and Perth.",
+          "investment_date": "2016 - 2022",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/castleton-technology/",
+          "target_company_name": "Castleton Technology",
+          "target_location": "Midlands",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Castleton provides tailor-made software and infrastructure solutions, predominately in the social housing sector. Through a number of strategic acquisitions, Castleton has created the only integrated, single Enterprise Resource Planning (“ERP”) platform solution in the social housing sector.",
+          "investment_date": "2016 - 2020",
+          "investment_type": "Equity, Minority Investment",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/cussins/",
+          "target_company_name": "Cussins",
+          "target_location": "North East",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Infrastructure",
+            "Construction & Property",
+            "House Builder"
+          ],
+          "target_business_description": "Cussins is a family-owned house builder, based in the North East. BGF partnered with Cussins to support new site acquisition and housing developments, leading to growth in new sites, strengthened management, and a tripling of turnover.",
+          "investment_date": "December 2014",
+          "investment_type": "Growth Equity",
+          "investment_amount": "£5m",
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/datum360/",
+          "target_company_name": "Datum360",
+          "target_location": "Teesside, Yorkshire & North East",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology",
+            "Power Generation",
+            "Utilities",
+            "Food Production",
+            "Infrastructure"
+          ],
+          "target_business_description": "Datum360 develops a software platform connecting disparate systems for large asset owners to seamlessly access engineering information and asset data.",
+          "investment_date": "2020",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited (acquired by Autodesk, Inc. in 2024)",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/decision-tech/",
+          "target_company_name": "Decision Tech",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": "Technology",
+          "target_business_description": "Decision Tech (now part of Moneysupermarket.com) is a market leading business in price comparison for home communications. In addition to operating broadbandchoices.co.uk, the company provides the technology, data and performance analytics powering telecoms comparison on major brands including Moneysavingexpert.com.",
+          "investment_date": "2012",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/devopsgroup/",
+          "target_company_name": "DevOpsGroup",
+          "target_location": "Cardiff",
+          "target_country": "UK (Wales)",
+          "target_sectors": [
+            "Technology",
+            "IT Consultancy"
+          ],
+          "target_business_description": "DevOpsGroup empowers digital transformation through high-performing IT capabilities for enterprises, including ASOS, Admiral Insurance, BAE Systems, and Vodafone, and scaleup companies. They are an IT consultancy business that advises enterprise clients on adopting modern software development models.",
+          "investment_date": "2018",
+          "investment_type": "Growth Capital / Minority Investment",
+          "investment_amount": "£3m",
+          "status": "Exited (Acquired by Amdocs in November 2021)",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/dianomi/",
+          "target_company_name": "Dianomi",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": "Media",
+          "target_business_description": "Dianomi’s propriety platform matches premium sponsored content with relevant audiences, while maintaining brand protection and improving return on investment. Its native content marketing platform is used by financial advertisers and tier one publishers.",
+          "investment_date": "2018",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "N/A",
+          "target_company_name": "Direct Online Services",
+          "target_location": "South West",
+          "target_country": "UK",
+          "target_sectors": "Retail & E-commerce",
+          "target_business_description": "DOS is an online retailer of wooden kitchen worktops. The company sell its range of kitchen furniture through an array of individually branded retail websites and eBay shops. It owns a fleet of vehicles and showrooms throughout the UK.",
+          "investment_date": "2016 - 2020",
+          "investment_type": "Growth",
+          "investment_amount": "N/A",
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/driveworks/",
+          "target_company_name": "DriveWorks",
+          "target_location": "North West",
+          "target_country": "UK",
+          "target_sectors": "Technology",
+          "target_business_description": "DriveWorks provides innovative design automation and 3D sales product configuration software to manufacturing and engineering companies worldwide.",
+          "investment_date": "February 2021",
+          "investment_type": "Minority Capital",
+          "investment_amount": "£4 million",
+          "status": "Exited (Acquired by Bechtle AG in October 2024)",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/duncan-and-todd/",
+          "target_company_name": "Duncan and Todd",
+          "target_location": "Scotland",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Retail & E-commerce"
+          ],
+          "target_business_description": "Duncan and Todd owns and operates a chain of opticians in Scotland, with shops stretching from Fife to the Highlands. The business also manufactures its own lenses at its laboratory in North East Scotland.",
+          "investment_date": "2013",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/firefly-learning/",
+          "target_company_name": "Firefly Learning",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": [
+            "Education",
+            "Edtech"
+          ],
+          "target_business_description": "Firefly Learning is an edtech business with an online tool for teachers to set homework, create resources, and track student progress.",
+          "investment_date": "2016",
+          "investment_type": "Early Stage",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/fulfilmentcrowd/",
+          "target_company_name": "fulfilmentcrowd",
+          "target_location": "North West",
+          "target_country": "UK",
+          "target_sectors": [
+            "Retail & E-commerce"
+          ],
+          "target_business_description": "fulfilmentcrowd is a global e-commerce fulfilment and logistics business. It has developed an award-winning, cloud-based software platform for omnichannel retailers, which seamlessly integrates with their sales channels.",
+          "investment_date": "2021",
+          "investment_type": "Growth capital",
+          "investment_amount": null,
+          "status": "Exited (reinvested for minority stake)",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/furniture-village/",
+          "target_company_name": "Furniture Village",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": [
+            "Retail",
+            "E-commerce"
+          ],
+          "target_business_description": "Furniture Village is a major UK retailer of leading sofa and bed brands, selling through its stores and growing online presence. Positioned at the top end of the volume furniture market, its product range is largely sourced from the within the UK.",
+          "investment_date": "2014 - 2022",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/gci/",
+          "target_company_name": "GCI",
+          "target_location": "Midlands",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "GCI is one of the UK’s leading managed service providers helping organisations evolve from traditional technology environments. It used BGF funding to successfully support its buy-and-build strategy, acquiring 12 companies to become the UK’s largest privately-owned ICT service provider.",
+          "investment_date": "2012",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/healthshare/",
+          "target_company_name": "Healthshare",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": "Healthcare",
+          "target_business_description": "Healthshare is a clinically-led team striving to improve NHS care. Through innovation, and in partnership with patients, GPs and hospitals, the business has grown into one of the largest providers of integrated community-based care in England. Healthshare serves over 360,000 NHS patients each year and specialises in the design and delivery of Integrated Community Clinical Services and Diagnostics across MSK (musculoskeletal), Physiotherapy, Orthopaedics, Rheumatology, Pain, Women’s Health, Podiatry, Cardiology and Gastroenterology.",
+          "investment_date": "2019",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "HeleCloud",
+          "target_location": "South West",
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology",
+            "IT Consultancy",
+            "Cloud Services"
+          ],
+          "target_business_description": "HeleCloud is an IT consultancy and AWS managed services provider. It guides businesses through Cloud transitions, by providing expert migration training, strategic consulting, and engineering.",
+          "investment_date": "2018",
+          "investment_type": "Growth capital",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/horbury-group/",
+          "target_company_name": "Horbury Group",
+          "target_location": "North West",
+          "target_country": "United Kingdom",
+          "target_sectors": "Infrastructure, Construction & Property",
+          "target_business_description": "Horbury is a group of integrated construction-based companies operating throughout the mainland UK, providing construction solutions to developers, building owners and main contractors.",
+          "investment_date": "2014",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/hydrock/",
+          "target_company_name": "Hydrock",
+          "target_location": "South West",
+          "target_country": "UK",
+          "target_sectors": [
+            "Climate & Sustainability",
+            "Engineering Design",
+            "Energy Consultancy",
+            "Sustainability Consultancy"
+          ],
+          "target_business_description": "Hydrock brings sustainable solutions to infrastructure projects across the UK, through its award-winning engineering design, energy and sustainability consultancy services.",
+          "investment_date": "2018",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Exited (2024)",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/morphcostumes/",
+          "target_company_name": "MorphCostumes (AFG Media)",
+          "target_location": "Scotland",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Retail & E-commerce"
+          ],
+          "target_business_description": "MorphCostumes is best known for its iconic Morphsuits, offering 1,200 varied costume designs to its global customer base. The business has achieved rapid growth through strategic acquisitions and data-driven product development. Its parent company, AFG Media, primarily sells via Amazon across 12 countries, with additional US sales driven directly through retailers Target and Walmart.",
+          "investment_date": "2012",
+          "investment_type": "Growth capital (minority investment)",
+          "investment_amount": "£4.2 million",
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Moulded Foams",
+          "target_location": "Scotland",
+          "target_country": "UK",
+          "target_sectors": "Specialist Manufacturing",
+          "target_business_description": "Moulded Foams is the UK’s largest independent manufacturer of moulded foam products. The business produces a range of 98% air products which protect food, goods and insulate buildings, and operates from bases in Scotland, South Wales, and Lincolnshire.",
+          "investment_date": "2019",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/new-voice-media/",
+          "target_company_name": "NewVoiceMedia",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "NewVoiceMedia is a leading global provider of cloud technology, which helps businesses sell more, serve better and grow faster.",
+          "investment_date": "2015",
+          "investment_type": "Early Stage",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/nss-group/",
+          "target_company_name": "NSS Group",
+          "target_location": "North West",
+          "target_country": "UK",
+          "target_sectors": [
+            "Infrastructure",
+            "Construction & Property"
+          ],
+          "target_business_description": "Formed after a merger of two BGF portfolio companies, High Access and Nationwide Window Cleaning, NSS Group is one of the largest independent facilities management services companies in the UK.",
+          "investment_date": "2018",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/olive-communications/",
+          "target_company_name": "Olive Communications",
+          "target_location": "Midlands",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Olive provides communications systems to help corporate, small and mid-sized organisations improve their IT infrastructure systems. Customers are provided with a single, unified IT and communications infrastructure which delivers cost efficiencies and improves workforce accountability.",
+          "investment_date": "2016",
+          "investment_type": "Growth",
+          "investment_amount": "£10 million",
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/oneplm/",
+          "target_company_name": "OnePLM",
+          "target_location": "South West",
+          "target_country": "United Kingdom",
+          "target_sectors": "Technology",
+          "target_business_description": "OnePLM is a product lifecycle management company and the largest reseller of Siemens Industry Software.",
+          "investment_date": "2018",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Operam Education Group",
+          "target_location": "Yorkshire & North East",
+          "target_country": "UK",
+          "target_sectors": [
+            "Education",
+            "Recruitment"
+          ],
+          "target_business_description": "Operam Education Group is a leading education recruitment specialist, operating across the Midlands and North of England, to address staffing challenges in the UK's state-funded education sector.",
+          "investment_date": "2019",
+          "investment_type": "Growth Equity, Minority Investment",
+          "investment_amount": "£7 million",
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/semafone/",
+          "target_company_name": "Semafone",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Used by call centres globally, Semafone provides the fraud prevention software necessary for companies to take secure customer payments over the phone. Its technology masks the tones from a cardholder’s telephone and replaces them with an unrecognisable flat tone.",
+          "investment_date": "2014 - 2021",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Sentric Music",
+          "target_location": "North West",
+          "target_country": "United Kingdom",
+          "target_sectors": "Media",
+          "target_business_description": "Sentric Music is an award-winning, independent music publisher. It represents songwriters and copyright owners all over the globe to ensure they receive the money they are owed when their music is used commercially.",
+          "investment_date": "2017",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/sertec/",
+          "target_company_name": "Sertec",
+          "target_location": "Midlands",
+          "target_country": "UK",
+          "target_sectors": [
+            "Automotive & Aerospace"
+          ],
+          "target_business_description": "Sertec specialises in manufacturing stampings and welded assemblies, traditionally to the Midlands' automotive industry. It supplies to Jaguar Land Rover and produces more than three million parts per week.",
+          "investment_date": "2016",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/setfords/",
+          "target_company_name": "Setfords",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": [
+            "Business Services"
+          ],
+          "target_business_description": "Setfords is a nationwide law firm, which uses a network consultancy approach to allow its lawyers to work remotely. Its 'dispersed' model encourages flexible working practices, through the use of technology.",
+          "investment_date": "2016",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Solid Solutions",
+          "target_location": "Midlands",
+          "target_country": "United Kingdom",
+          "target_sectors": "Technology",
+          "target_business_description": "Solid Solutions is a leading reseller of 3D CAD software package SolidWorks.",
+          "investment_date": "2016",
+          "investment_type": "Growth / Minority Investment",
+          "investment_amount": null,
+          "status": "Exited (acquired by LDC in 2020)",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/springfield-healthcare-group/",
+          "target_company_name": "Springfield Healthcare Group",
+          "target_location": "Yorkshire & North East",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Healthcare"
+          ],
+          "target_business_description": "Springfield Healthcare Group develops and manages care villages across Yorkshire and the North East. It pioneered the care village model, offering day, residential, dementia and nursing care, combined with private independent living apartments. Now, Springfield operates six care villages across the Yorkshire region, providing more than 500 registered care beds and employing 700 people.",
+          "investment_date": "2012",
+          "investment_type": "Growth Capital",
+          "investment_amount": "£31 million",
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/st-pierre-groupe/",
+          "target_company_name": "St Pierre Groupe",
+          "target_location": "Manchester",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Food & Drink",
+            "Bakery"
+          ],
+          "target_business_description": "St Pierre Groupe is a market leader in the bakery sector, with a brand portfolio that includes Baker Street and Paul Hollywood Ready to Bake Breads. It is an award-winning bakery business.",
+          "investment_date": "2018",
+          "investment_type": "Growth equity",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/statesman-travel-group/",
+          "target_company_name": "Statesman Travel Group",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": [
+            "Business Services",
+            "Travel Management"
+          ],
+          "target_business_description": "Statesman Travel Group is a high-end travel management company. Statesman Travel Group was one of the first companies ever backed by BGF. Following a period of sustained growth, backed by funding and support from BGF, Statesman was acquired by US-based business Travel and Transport.",
+          "investment_date": "2011",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/stats-group/",
+          "target_company_name": "STATS Group",
+          "target_location": "Scotland",
+          "target_country": "UK",
+          "target_sectors": "Energy & Resources",
+          "target_business_description": "STATS Group is a market leader in the supply of pressurised pipeline isolation, hot tapping and plugging services to the global oil, gas and petrochemical industries.",
+          "investment_date": "2012 - 2023",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/ultra-finishing/",
+          "target_company_name": "Ultra Finishing",
+          "target_location": "North West",
+          "target_country": "UK",
+          "target_sectors": "Specialist Manufacturing",
+          "target_business_description": "Ultra Finishing (now Roxor Group) manufactures, sources and distributes a wide range of bathroom products to online and high street retailers, builders and plumbers merchants, and other trade partners.",
+          "investment_date": "2017 - 2021",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Exited",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/character-com/",
+          "target_company_name": "Character.com",
+          "target_location": "Wales",
+          "target_country": "UK",
+          "target_sectors": "Retail & E-commerce",
+          "target_business_description": "Founded in 2009 by husband-and-wife team Stephen and Karen Hewitt, Character.com is a dynamic character clothing retailer with a focus on children’s products which has featured on the Sunday Times Fast Track 100 for four consecutive years.",
+          "investment_date": "2021",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/cheesecake-energy/",
+          "target_company_name": "Cheesecake Energy",
+          "target_location": "Midlands",
+          "target_country": "United Kingdom",
+          "target_sectors": "Climate & Sustainability",
+          "target_business_description": "A spin-out of the University of Nottingham, Cheesecake Energy (CEL) is developing the world’s greenest energy storage technology, lowering the cost of medium to long-duration energy storage, and turning renewable energy sources like wind and solar into reliable, on-demand power.",
+          "investment_date": "2022",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/christopher-ward/",
+          "target_company_name": "Christopher Ward",
+          "target_location": "South West",
+          "target_country": "UK",
+          "target_sectors": [
+            "Retail & E-commerce"
+          ],
+          "target_business_description": "Christopher Ward creates high-quality timepieces that combine British style and innovation with Swiss watchmaking skills. The brand specialises in mechanical and quartz watches, that are designed in the UK and manufactured in the home of horology, Biel, Switzerland.",
+          "investment_date": "2019",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/cirrus/",
+          "target_company_name": "Cirrus",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": "Technology",
+          "target_business_description": "As contact centre specialists selling exclusively through the channel, Cirrus partners with ambitious companies to help their customers achieve flawless customer experience. Cirrus contact centre delivers a seamless omnichannel experience for both customers and agents, connecting interactions together across channels such as voice, video, email, messaging and social media, achieving a single view of the customer.",
+          "investment_date": "2021",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/civiteq/",
+          "target_company_name": "Civiteq",
+          "target_location": "Northampton",
+          "target_country": "UK",
+          "target_sectors": [
+            "Business Services",
+            "Digital Transformation"
+          ],
+          "target_business_description": "Civiteq is a digital transformation partner that supports public sector organisations across the UK to improve their services through innovation, people change, data and technology. With over 100 consultants across the UK, Civiteq provides a range of digital transformation services to public sector organisations. It aims to maximise organisational effectiveness, and to enhance customer and employee experiences. Founded in 2015, the business (formerly named Socitm Advisory) is headquartered in Northampton and is the sister company of Socitm – a membership network, comprising 250+ public services organisations engaged in tech-enabled modernisation.",
+          "investment_date": "2023",
+          "investment_type": "Growth",
+          "investment_amount": "£5 million",
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/closed-loop/",
+          "target_company_name": "Closed Loop Medicine (CLM)",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": "Life Sciences",
+          "target_business_description": "Closed Loop Medicine (CLM) is a next-generation therapeutics company that combines drug and digital therapies to offer more personalised and holistic treatment pathways for patients. Working with proven drugs, CLM collects data and insight from patients about how they are responding to treatment to help doctors and healthcare providers deliver more immediate and effective treatment regimes.",
+          "investment_date": "2020",
+          "investment_type": "Early Stage",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/connected-health/",
+          "target_company_name": "Connected Health",
+          "target_location": "Northern Ireland",
+          "target_country": "Ireland",
+          "target_sectors": "Healthcare",
+          "target_business_description": "Connected Health is Ireland’s largest privately-owned homecare provider, employing over 1,800 staff. It delivers personalised, tech-enhanced care services that enable individuals to live safely and comfortably in their own homes.",
+          "investment_date": "2024",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/e2e-assure/",
+          "target_company_name": "e2e-assure",
+          "target_location": "South West",
+          "target_country": "UK",
+          "target_sectors": "Technology",
+          "target_business_description": "e2e-assure is a leading cybersecurity software and services business. It specialises in providing security operations centre (SOC) services, alongside MDR, vulnerability scanning and monitoring.",
+          "investment_date": "2021",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/echion-technologies/",
+          "target_company_name": "Echion Technologies",
+          "target_location": "East of England",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Climate & Sustainability"
+          ],
+          "target_business_description": "Echion is a world-leading developer of advanced lithium-ion battery materials, whose products enable cell manufacturers to deliver cost-effective, fast-charging, high-energy density and long-life power cells for a wide range of markets (including automotive, transportation, premium consumer electronics, and grid-storage applications).",
+          "investment_date": "2021",
+          "investment_type": "Early Stage",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Ecovis DCA",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": null,
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/ecovision/",
+          "target_company_name": "Ecovision",
+          "target_location": "South West",
+          "target_country": "UK",
+          "target_sectors": "Climate & Sustainability",
+          "target_business_description": "Ecovision is a renewable energy business with a focus on monitoring and maintaining solar panels across the UK.",
+          "investment_date": "2014",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/edgescan/",
+          "target_company_name": "Edgescan",
+          "target_location": "Republic of Ireland",
+          "target_country": "Ireland",
+          "target_sectors": [
+            "Technology",
+            "Cybersecurity"
+          ],
+          "target_business_description": "Edgesan is a cybersecurity software and services business which specialises in vulnerability management. Its proprietary SaaS product continuously detects vulnerabilities across a company’s networks, web applications, API’s and cloud deployments and provides real time vulnerability intelligence to support the efficient remediation of detected risks.",
+          "investment_date": "2020",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/elasmogen/",
+          "target_company_name": "Elasmogen",
+          "target_location": "Aberdeen",
+          "target_country": "Scotland",
+          "target_sectors": "Life Sciences",
+          "target_business_description": "Elasmogen is a privately held biopharmaceutical company located in the thriving biologics cluster in Aberdeen, Scotland. The Company is rapidly progressing a pipeline of next-generation soloMER products for the treatment solid-tumour cancers, systemic inflammatory diseases and inflammatory conditions of the gut.",
+          "investment_date": "2020",
+          "investment_type": "Growth (minority investment)",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/elements-talent-solutions/",
+          "target_company_name": "Elements Talent Solutions",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": "Business Services",
+          "target_business_description": "Elements is a talent acquisition consultancy that specialises in partnering with high-growth technology firms.",
+          "investment_date": "2018",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/eleven-sports-media/",
+          "target_company_name": "Eleven",
+          "target_location": "North West",
+          "target_country": "UK",
+          "target_sectors": "Technology",
+          "target_business_description": "Eleven is a high-growth sports marketing business and a global leader in community-driven partnerships across the highest level of professional sport (including the Premier League in England, and the NFL, NBA and NHL in North America).",
+          "investment_date": "2024",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Elite Dynamics",
+          "target_location": "North West",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Elite Dynamics is a leading provider of software solutions to the holiday park and marina industry.",
+          "investment_date": "2024",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/idr-law/",
+          "target_company_name": "IDR Law",
+          "target_location": "Yorkshire & North East",
+          "target_country": "United Kingdom",
+          "target_sectors": "Business Services",
+          "target_business_description": "IDR Law is the only UK law firm to specialise solely in the resolution of contentious wills, probate and trust disputes. Its unique position in the market is underpinned by the firm’s innovative IDR Network, which provides hundreds of members with an online referral and support space, along with extensive training, resources and commentaries.",
+          "investment_date": "2023",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/iq-endoscopes/",
+          "target_company_name": "IQ Endoscopes",
+          "target_location": "Wales",
+          "target_country": "UK",
+          "target_sectors": [
+            "Life Sciences",
+            "Medical Devices"
+          ],
+          "target_business_description": "IQ Endoscopes is a medical device business that's working to revolutionise the early diagnosis of cancers and gastro-intestinal conditions. Its team of clinical, medtech and engineering specialists are developing sustainable, single-use endoscopes, to better support clinicians and patients.",
+          "investment_date": "2023",
+          "investment_type": "Early Stage",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/isol8/",
+          "target_company_name": "isol8",
+          "target_location": "Scotland",
+          "target_country": "United Kingdom",
+          "target_sectors": "Energy & Resources",
+          "target_business_description": "Setting a new global standard in zero emission wellbore barriers, isol8’s industry-leading technology supports the UK Government’s ambition to drive down global methane and carbon dioxide emissions.",
+          "investment_date": "2021",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/its-fresh/",
+          "target_company_name": "It's Fresh!",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology",
+            "Green Technology"
+          ],
+          "target_business_description": "It’s Fresh! is a green technology startup that has developed solutions to extend the shelf life of fresh fruit and vegetables throughout the entire food supply chain, optimising produce quality and reducing food waste.",
+          "investment_date": "2023",
+          "investment_type": "Early Stage",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/itc-service/",
+          "target_company_name": "ITC Service",
+          "target_location": "Yorkshire & North East, England",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "ITC Service is a leading provider of innovative technology solutions, delivering business-critical IT services to more than 400 SMEs across the North East of England, including cyber security, digital transformation and cloud services.",
+          "investment_date": "2024",
+          "investment_type": "Growth Equity",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/itd-global/",
+          "target_company_name": "ITD Global",
+          "target_location": "North West",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Retail & E-commerce"
+          ],
+          "target_business_description": "ITD Global is a tech-enabled logistics consolidator that brokers parcel and freight solutions for e-commerce clients, operating in countries around the world.",
+          "investment_date": "2022",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/joe-and-sephs/",
+          "target_company_name": "Joe & Seph's",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Food & Drink"
+          ],
+          "target_business_description": "Joe & Seph’s popcorn is handmade at their kitchens in London by a team of pastry chefs, who ‘air-pop’ the kernels and use only natural ingredients. The range now comprises over 50 innovative flavours, from Chilli Chocolate and Salted Caramel, to Cheese on Toast and Gin & Tonic, earning the business more than 40 Great Taste awards.",
+          "investment_date": "2019",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/johnsons-aggregates/",
+          "target_company_name": "Johnsons Aggregates",
+          "target_location": "Midlands",
+          "target_country": "UK",
+          "target_sectors": "Climate & Sustainability",
+          "target_business_description": "Johnsons Aggregates is a recycler of incinerator bottom ash (IBA), which reduces the amount of waste going to landfill. The business extracts metals from the IBA and turns the residue into a quality aggregate suitable for the construction industry, thereby avoiding any material going to landfill.",
+          "investment_date": "2016",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Kocho",
+          "target_location": "London",
+          "target_country": "United Kingdom",
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Kocho is a high-growth managed service provider that supports mid-market companies transitioning to the Cloud.",
+          "investment_date": "2018",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/miracle/",
+          "target_company_name": "Miracle Design & Play",
+          "target_location": "South East",
+          "target_country": "UK",
+          "target_sectors": "Infrastructure, Construction & Property",
+          "target_business_description": "Miracle Design & Play is a leading designer and installer of children’s playgrounds. It specialises in services for the UK housebuilding sector, providing bespoke solutions that comply with planning regulations.",
+          "investment_date": "2024",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/mission-mars/",
+          "target_company_name": "Mission Mars",
+          "target_location": "North West",
+          "target_country": "UK",
+          "target_sectors": "Leisure & Hospitality",
+          "target_business_description": "Mission Mars is a leading hospitality operator in the North West. Its portfolio includes the likes of Albert’s Schloss and Rudy’s Neapolitan Pizza.",
+          "investment_date": "2018",
+          "investment_type": "Growth",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": "https://www.bgf.co.uk/portfolio/moa/",
+          "target_company_name": "MOA",
+          "target_location": "South East",
+          "target_country": "United Kingdom",
+          "target_sectors": "Climate & Sustainability",
+          "target_business_description": "Spun out from Oxford University’s Plant Sciences Department in 2017, MOA Technology is leading the evolution of ethical and collaborative crop protection to feed the world’s growing population efficiently, safely and sustainably. It was set up to address the challenge of increasing levels of weed resistance to herbicides, and the company has developed its own platforms for the discovery of sustainable herbicides from both natural and synthetic chemistry.",
+          "investment_date": "2022",
+          "investment_type": "Early Stage",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "BGF"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Acton Banks",
+          "target_location": "UK",
+          "target_country": "UK",
+          "target_sectors": "Healthcare",
+          "target_business_description": "Acton Banks is a leading supplier of healthcare assistants, registered nurses and theatre staff across the UK to both private and NHS, care homes and hospitals. Established in 2006, Acton Banks has become one of the country's largest and most respected healthcare staffing providers. Operating 24 hours per day, 7 days per week, Acton's services provide a valuable solution to the supply and demand pressures being felt in the healthcare sector for trained and qualified staff, having built up a comprehensive network of healthcare professionals across a range of specialisms.",
+          "investment_date": "October 2018",
+          "investment_type": "MBO",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Private Equity Buyout Fund"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Adimo",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Adimo provides FMCG brands with the functionality to natively embed commerce functionality into digital media and content. This solution helps clients shorten the path to purchase and maximise customer conversions. Adimo's analytics and sales tracking platform provides its brand partners, who include Nestle, Arla, Danone, Fever-Tree and Bacardi, with real time insights into their shoppable campaigns. From retailer selection, right through to transaction values and products sold.",
+          "investment_date": "February 2021",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Adler and Allan",
+          "target_location": "Harrogate",
+          "target_country": "UK",
+          "target_sectors": "Environmental Services",
+          "target_business_description": "A leading UK environmental services business that helps public and private sector businesses understand and manage their environmental risks, reducing the impact on the environment, their operation and their reputation. At the time of Maven's exit, it employed 450 staff across 24 UK depots with an annual turnover in excess of £60 million.",
+          "investment_date": "June 2007",
+          "investment_type": "Private Equity",
+          "investment_amount": "Undisclosed (exit achieved a 2.6x multiple return for Maven clients)",
+          "status": "Realised",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "AMufacture",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology",
+            "Marine",
+            "Automotive",
+            "Renewable Energy",
+            "Sports",
+            "Healthcare"
+          ],
+          "target_business_description": "AMufacture provides value-added in-house manufacturing and associated services for a wide range of clients, specialising in 3D printed parts, composite tooling, as well as computer-aided design (CAD) and design optimisation. AMufacture partners with businesses as an extension to their workflow, offering end-to-end production services that range from project inception, consultation, and design optimisation to prototype development, ramp-up, and scale production. Its innovative services are utlised across multiple industries, including marine, automotive, renewable energy, sports, and healthcare sectors. It offers a cost-effective, efficient, and sustainable production solution for clients, resulting in shorter lead times and the capability to deliver complex parts in volume without relying on global supply chains or facing the limitations of conventional manufacturing.",
+          "investment_date": "December 2023",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Attraction World",
+          "target_location": "Midlands",
+          "target_country": "UK",
+          "target_sectors": [
+            "Travel",
+            "Leisure",
+            "Services"
+          ],
+          "target_business_description": "Attraction World is one of the UK’s largest theme park ticket specialists, supplying many of the world’s leading travel brands. It enables customers to pre-book tickets for around 5,000 attractions in over 50 countries, including amusement parks, sightseeing tours, theatre shows, and experience days. In 2016, it acquired Day Out With The Kids, a website for family attractions and children’s activities.",
+          "investment_date": "December 2010",
+          "investment_type": "Management Buyout (MBO)",
+          "investment_amount": null,
+          "status": "Realised",
+          "fund": [
+            "Private Equity",
+            "Growth Capital"
+          ]
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Automated Analytics",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": "Technology",
+          "target_business_description": "A sales and marketing platform specializing in closing the loop on the tracking of online clicks to offline conversions, enabling better campaign optimisation. It provides innovative tools that bridge the data gap between online clicks and offline conversions, empowering businesses to attract, engage and maintain relationships with customers.",
+          "investment_date": "March 2021",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "BioAscent",
+          "target_location": "Glasgow",
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology",
+            "Pharmaceutical Services",
+            "Life Sciences"
+          ],
+          "target_business_description": "BioAscent supports pharmaceutical companies during the drug discovery phase by helping identify potential drug candidates for preclinical trials. They test drug interaction against over 1 million chemical compounds, providing detailed profiles of absorption, distribution, metabolism, and toxicity. They offer a cost-effective alternative for outsourcing drug discovery through their high-capacity, state-of-the-art R&D facility near Glasgow, which was acquired from Merck Sharp & Dohme, serving large pharmaceutical and biotechnology companies.",
+          "investment_date": "June 2018",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Blackdot Solutions",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Blackdot Solutions is a leading provider of advanced intelligence and investigations software. The company has developed Videris, a powerful SaaS platform designed to revolutionise how organisations gather, analyse, and visualise data from public and proprietary sources. Trusted by a growing international client base including government, law enforcement, and large corporates, Videris empowers users to quickly and efficiently conduct secure investigations to identify threats, mitigate risk, and ensure compliance with complex regulatory standards.",
+          "investment_date": "February 2025",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Blacktrace",
+          "target_location": "near Cambridge",
+          "target_country": "UK",
+          "target_sectors": [
+            "Healthcare",
+            "Life Science Tools"
+          ],
+          "target_business_description": "Blacktrace develops and sells cutting-edge scientific instrumentation and products. Established in 2001, it employs a large team of world-class scientists and engineers at its state-of-the-art testing and manufacturing facility. Its customers include pharmaceutical companies, academic institutes, biotechs, start-ups, petrochemical companies, and food manufacturers. The company is known for its innovation in microfluidics, vaccines, gene therapy, and single-cell genomics analysis.",
+          "investment_date": "April 2016",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Realised",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Blis",
+          "target_location": "Global (with significant presence and expansion in US)",
+          "target_country": "Global",
+          "target_sectors": "Technology",
+          "target_business_description": "Blis is a global programmatic advertising company that doesn’t rely on personal data. As an integrated media planning and buying platform, Blis builds audiences using accurate, consented location data combined with a broad range of rich and powerful anonymised datasets, giving Blis the deepest audience understanding available.",
+          "investment_date": "June 2022",
+          "investment_type": "Private Equity",
+          "investment_amount": "Not specified for initial investment by Maven; acquired for $175 million (valuation at exit)",
+          "status": "Realised (exited March 2025)",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Bright Network",
+          "target_location": "London",
+          "target_country": "UK",
+          "target_sectors": [
+            "Services",
+            "Media Technology",
+            "Recruitment"
+          ],
+          "target_business_description": "Bright Network is a high-growth, media technology platform that connects ambitious young people from all backgrounds with blue-chip employers for career opportunities. It brings together both sides of the job market using advanced data analytics and cutting-edge technology to pre-screen candidates. The platform offers a resource of rich data and insights, enabling businesses to identify and secure high-quality talent pipelines. It serves a client base of over 300 employers, including global blue-chip organizations like Bloomberg, Deloitte, EY, Goldman Sachs, Morgan Stanley, PwC, P&G, and Vodafone, aiming to modernize the graduate recruitment industry.",
+          "investment_date": "July 2018",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Bud Systems",
+          "target_location": "United Kingdom (UK)",
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology",
+            "Education Technology",
+            "SaaS"
+          ],
+          "target_business_description": "Bud provides specialised software as a service (SaaS) to apprenticeship and other training organisations. Its platform enables the cost-effective delivery of high quality, compliant training whilst improving the visibility of progress and performance. Bud’s end-to-end approach brings together learners, training providers and employers across all aspects from enrolment through to reporting and regulatory compliance. The business works with blue-chip employers and many of the UK’s largest training providers, benefiting from high recurring revenues.",
+          "investment_date": "September 2022",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Bullet Express",
+          "target_location": "Glasgow",
+          "target_country": "UK",
+          "target_sectors": [
+            "Services",
+            "Logistics",
+            "Storage",
+            "Freight Management",
+            "Distribution",
+            "Warehousing",
+            "FMCG",
+            "Retail",
+            "Healthcare",
+            "Industrial",
+            "Aerospace"
+          ],
+          "target_business_description": "Bullet Express is a Glasgow based logistics and storage specialist that provides global freight management, distribution and warehousing capability to a diverse customer base across multiple sectors including FMCG, Retail, Healthcare, Industrial and Aerospace. The business has invested heavily in enhancing its storage and sorting capabilities and driving efficiencies, allowing it to take on larger scale contracts and offer more services. Operating from several strategic locations, Bullet Express provides 560,000ft2 of facilities with easy access to key motorways, seaports and airports for time-sensitive transport across the UK.",
+          "investment_date": "October 2023",
+          "investment_type": "Management Buyout (MBO)",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Calatherm",
+          "target_location": "West Midlands",
+          "target_country": "UK",
+          "target_sectors": [
+            "Industrials & Engineering"
+          ],
+          "target_business_description": "Calatherm is a leading heating, ventilation, air conditioning (HVAC) and thermal management solutions provider. The business supports full-cycle product development from design and validation to supply and aftercare. With an increasing focus on green energy technology, the company is developing zero-emission vehicle technology and sustainable heating and cooling solutions across automotive, rail and construction industries. It has built a strong reputation for delivering high performance thermal management solutions to Tier 1 clients across the UK, Ireland, Europe, and Australia.",
+          "investment_date": "March 2024",
+          "investment_type": "Private Equity",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Candle Shack",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Services",
+            "eCommerce",
+            "Home Fragrance Supplies"
+          ],
+          "target_business_description": "Candle Shack is a rapidly growing eCommerce business that supplies candle-making components (including fragrances, waxes, wicks, glassware, and bespoke branded packaging) and provides contract manufacturing services for high-profile, luxury candle brands. The company focuses on premium markets and aims to be Europe's leading home fragrance supplies business.",
+          "investment_date": "September 2021",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Private Equity"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Cardinality",
+          "target_location": "Guildford",
+          "target_country": "UK",
+          "target_sectors": [
+            "Technology",
+            "Data Analytics",
+            "AI",
+            "Telecommunications"
+          ],
+          "target_business_description": "Cardinality is a software and service provider that developed the 'Perception' data ingestion and analytics platform. This platform allows customers to run, manage, and derive value from datasets in real time and at scale. Its proprietary system utilizes Artificial Intelligence (AI) and machine learning to help customers analyze big data, extract insights, reduce costs, and increase profits. Founded in 2015, the business primarily services the telecoms sector, with clients including Vodafone, Telefónica, Etisalat, and Zain.",
+          "investment_date": "April 2021",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Realised",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Cash Bases",
+          "target_location": "Newhaven",
+          "target_country": "UK",
+          "target_sectors": [
+            "Industrials & Engineering",
+            "Retail",
+            "Finance",
+            "Hospitality"
+          ],
+          "target_business_description": "Cash Bases is a point-of-sale (POS) cash management specialist and one of the world’s leading manufacturers of high quality cash drawers and other POS related products. The company develops cash management solutions, including its SMARTtill technology, which provides automated cash management and real-time monitoring of POS transactions, including intelligent cash drawer systems. It supplies global brands in the retail, finance, and hospitality sectors across more than 70 countries.",
+          "investment_date": "2004",
+          "investment_type": "Management Buyout (MBO)",
+          "investment_amount": null,
+          "status": "Realised (exited in August 2015)",
+          "fund": [
+            "Private Equity",
+            "Growth Capital"
+          ]
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Cat Tech International",
+          "target_location": [
+            "UK",
+            "USA",
+            "Bulgaria",
+            "China",
+            "Singapore",
+            "Thailand"
+          ],
+          "target_country": [
+            "United Kingdom",
+            "United States",
+            "Bulgaria",
+            "China",
+            "Singapore",
+            "Thailand"
+          ],
+          "target_sectors": [
+            "Industrials",
+            "Engineering"
+          ],
+          "target_business_description": "Cat Tech is an International Catalyst Handling Company with a global reach, local knowledge and an absolute commitment to safety and service. The business operates from offices in the UK, USA, Bulgaria, China, Singapore and Thailand and is a leader in the provision of Catalyst Handling services for the refining, chemical, petrochemical and processing industries with over 50 years experience in the industry. Since Maven supported the MBO, the business has completed more than 1000 major projects for blue chip clients across 97 countries.",
+          "investment_date": "March 2012",
+          "investment_type": "Management Buyout (MBO)",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": [
+            "Private Equity",
+            "Growth Capital"
+          ]
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "CB Technology (CBT)",
+          "target_location": null,
+          "target_country": "UK (inferred, as it supplies UK customers and investor is UK-based)",
+          "target_sectors": [
+            "Technology",
+            "Contract electronics manufacturing",
+            "Industrial",
+            "Semiconductor"
+          ],
+          "target_business_description": "CB Technology is an established contract electronics manufacturer specializing in complex manufacturing and testing for deployment in harsh environments. The company predominately assembles and tests high-end printed circuit boards for use throughout the industrial and semiconductor sectors, supplying UK and international blue chip customers with complex electronics designed to function reliably under extremes of temperature, pressure, and vibration. During Maven's tenure, CBT invested in workforce expansion, production technology, and automated capabilities to increase capacity and enter new vertical markets requiring high-performance and reliable electronics.",
+          "investment_date": "December 2014",
+          "investment_type": "Management Buyout (MBI), Growth Capital",
+          "investment_amount": null,
+          "status": "Realised (exited September 2024)",
+          "fund": "Private Equity, Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Coniq",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology"
+          ],
+          "target_business_description": "Coniq is an award-winning CRM and loyalty platform used by the world’s leading shopping malls, outlets and retail brands to generate business value from data. Recognized as a pioneer and leader in the industry its technology simplifies the shopper engagement process enabling its clients to develop and run dynamic data-driven loyalty programs, helping build richer relationships with their customers. Marketeers can effectively and quickly increase sales by leveraging one of the industry’s largest repositories of customer loyalty data to understand and anticipate the purchasing behaviour and intent of shoppers. Coniq powers over £1 billion of sales annually for its customers, with over 17 million consumers in 24 countries globally, delivering an average increase in sales per customer of 32%. This investment will be used to transform the future of the offline retail industry, which has struggled over the years to counter competition from online players, by building on our success with our award-winning technology.",
+          "investment_date": "January 2020",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Connected Data",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology",
+            "Financial Services",
+            "Debt Management"
+          ],
+          "target_business_description": "Connected Data was established to revolutionise the way debt is managed by organisations across various industries, including utilities, financial services, local government and debt management services. The company's cloud-based data services blend the latest business intelligence, analytics and AI with predictive data solutions to transform the entire debt management process. Its services help organisations reduce, resolve and prevent debt with minimal internal resource impact, and enable clients to meet evolving consumer protection regulations, aiming for fairer, more positive outcomes for consumers in debt.",
+          "investment_date": "October 2024",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Cursor Controls",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Industrials & Engineering",
+            "Medical",
+            "Marine",
+            "Military",
+            "Media"
+          ],
+          "target_business_description": "Global market leader in the design and manufacture of trackball pointing solutions for industrial applications. The business offers the most comprehensive range of trackballs internationally, with over 1,200 variants in its product portfolio. Cursor provides trackball solutions for a wide range of applications, supported by innovative, patented technologies and a focus on continual product development and new solution launches.",
+          "investment_date": "July 2015",
+          "investment_type": [
+            "Growth Capital",
+            "Management Buyout (MBO)",
+            "Private Equity"
+          ],
+          "investment_amount": null,
+          "status": "Realised (exited October 2018)",
+          "fund": [
+            "Private Equity",
+            "Growth Capital",
+            "VCT shareholders",
+            "Investor Partner network"
+          ]
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "CYSIAM",
+          "target_location": null,
+          "target_country": null,
+          "target_sectors": [
+            "Technology",
+            "Cybersecurity"
+          ],
+          "target_business_description": "CYSIAM is a cybersecurity business that provides advice, training, and managed services in cyber and secure technology systems. They utilize deep technical expertise, project delivery skills, and operational support experience to serve a diverse range of government and high-profile private sector organizations. The business has expanded its capabilities to include international capacity building and cyber defence operations, offering complete wraparound managed services for clients seeking fully outsourced cyber and secure technology systems adapted to their requirements surrounding critical systems and data, including end-to-end managed security services.",
+          "investment_date": "January 2022",
+          "investment_type": "Growth Capital",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": "Growth Capital"
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://naxicap.com/portfolio/participations-investissement/",
+      "Investor": "Naxicap",
+      "Portfolio_description": "Naxicap investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": "https://naxicap.com/portfolio/participations-investissement/",
+          "target_company_name": "ALTARES",
+          "target_location": "Colombes, Lyon, Aix-en-Provence, Bruxelles, Rotterdam, Amsterdam, Casablanca",
+          "target_country": "France, Belgium, Netherlands, Morocco",
+          "target_sectors": "Services aux entreprises",
+          "target_business_description": "Exclusive partner of the global B2B information leader Dun & Bradstreet, Altares solutions provide comprehensive information on over 440 million companies in 230 countries, covering issues such as risk, finance, business development, marketing, purchasing, compliance, and CSR.",
+          "investment_date": "2016",
+          "investment_type": "Buyout",
+          "investment_amount": null,
+          "status": "Active",
+          "fund": "NAXICAP MID CAPS Investissements"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Altares D&B",
+          "target_location": [
+            "Paris, France (Headquarters)",
+            "Lyon, France",
+            "Aix-en-Provence, France",
+            "Dilbeek, Belgium",
+            "Rotterdam, Netherlands",
+            "Casablanca, Morocco"
+          ],
+          "target_country": [
+            "France",
+            "Belgium",
+            "Netherlands",
+            "Morocco"
+          ],
+          "target_sectors": "Business Information, Data Analytics, Risk Management, Compliance, Sales & Marketing Solutions, B2B Data Provider",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Anywr",
+          "target_location": "Present in 12 countries on 4 continents (no specific headquarters location provided)",
+          "target_country": "Not specified (present globally in 12 countries)",
+          "target_sectors": "Human Resources (HR) Services",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Astoria Finance",
+          "target_location": "France (40 offices across the country, phone number suggests Paris region)",
+          "target_country": "France",
+          "target_sectors": "Financial Services, Wealth Management, Financial Advisory, Asset Management",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Athome",
+          "target_location": "Fontenay-sous-Bois",
+          "target_country": "France",
+          "target_sectors": "Real Estate Services",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "BIA",
+          "target_location": "Not specified on page",
+          "target_country": "Not specified on page",
+          "target_sectors": "Advanced Test Systems & Industrial Testing Solutions",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "ECS GROUP",
+          "target_location": "Siège en France - 150 bureaux dans le monde - Présence dans plus de 50 pays",
+          "target_country": "France, Global",
+          "target_sectors": "Services aux entreprises",
+          "target_business_description": null,
+          "investment_date": "2018",
+          "investment_type": null,
+          "investment_amount": "1,3 Mds$",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "EMERA",
+          "target_location": "Mougins (06)",
+          "target_country": "Europe",
+          "target_sectors": "Santé",
+          "target_business_description": "Gestion d'établissement d'hébergements pour personnes âgées dépendantes et de résidences senior",
+          "investment_date": "2019",
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Eureka Education",
+          "target_location": "France and Switzerland (130 campuses across both countries, with specific offices mentioned in Paris, Lyon, and Nantes)",
+          "target_country": "France, Switzerland",
+          "target_sectors": "Higher Professional Education, Vocational Training",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "EUROGERM",
+          "target_location": "Saint-Apollinaire, Parc d’activités bois Guillaume – 2 rue champ doré, 21850 SAINT-APOLLINAIRE",
+          "target_country": "France",
+          "target_sectors": "Food Ingredients and Solutions (specifically for grain-flour-bread-pastry industry, industrial bakery, and pastry)",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Everaxis",
+          "target_location": [
+            "Le Plessis, France",
+            "Annemasse, France",
+            "Naples, USA",
+            "Kista, Sweden",
+            "Bangalore, India",
+            "Sun Prairie, USA"
+          ],
+          "target_country": [
+            "France",
+            "USA",
+            "Sweden",
+            "India"
+          ],
+          "target_sectors": [
+            "Defense",
+            "Aerospace",
+            "Space",
+            "Subsea",
+            "Civil",
+            "Energy",
+            "Industrial"
+          ],
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Groupe Findis",
+          "target_location": "Avermes, Allier (main site mentioned), operating across France",
+          "target_country": "France",
+          "target_sectors": "Wholesale Distribution of Home Equipment",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Groupe ABF",
+          "target_location": "Objat, Nouvelle-Aquitaine",
+          "target_country": "France",
+          "target_sectors": "Building Energy Efficiency / Energy Renovation / HVAC",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Wichard",
+          "target_location": "Thiers Dore et Montagne",
+          "target_country": "France",
+          "target_sectors": [
+            "Marine Equipment Manufacturing",
+            "Precision Manufacturing",
+            "Industrial Components"
+          ],
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Guntermann & Drunck",
+          "target_location": "Siegen (Allemagne), Burbank (Etats-Unis)",
+          "target_country": "Allemagne, Etats-Unis",
+          "target_sectors": "Technologie - Services Informatiques",
+          "target_business_description": "Fabricant de solutions KVM (clavier, vidéo, souris) haute performance. Marché: Radiodiffusion, Industrie de l’automatisation, contrôle du trafic aérien, applications maritimes",
+          "investment_date": "2020",
+          "investment_type": null,
+          "investment_amount": "29.8 M€",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Hello Syndic",
+          "target_location": "Paris (75), Lyon, Marseille",
+          "target_country": "France",
+          "target_sectors": "Services Immobiliers",
+          "target_business_description": "Néo syndic, syndic de copropriété, gestion locative, transaction immobilière, conciergerie, rénovation énergétique des bâtiments",
+          "investment_date": "2023",
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "HOUSE OF HR",
+          "target_location": "Roeselare (Belgique)",
+          "target_country": "Belgique, Allemagne, Pays-Bas, France, Suisse, Roumanie, Luxembourg",
+          "target_sectors": "Services aux entreprises",
+          "target_business_description": "Solutions RH : recrutement temporaire et fixe, recrutement temporaire international, payroll, détachement d’ingénieurs et techniciens hautement qualifiés, ingénierie et consultance, placement professionnel, formation et conseil RH",
+          "investment_date": "2012",
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "iad",
+          "target_location": "France (primary operational country, as the page is iad.fr)",
+          "target_country": "France",
+          "target_sectors": "Real Estate",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "LA BOUCHERIE",
+          "target_location": "Saint Barthélémy d'Anjou (49)",
+          "target_country": "France, Côte d'Ivoire",
+          "target_sectors": "Agriculture/Alimentation",
+          "target_business_description": "Offre de restauration de viande rouge de qualité",
+          "investment_date": "2008",
+          "investment_type": null,
+          "investment_amount": "52 M€ (2016 turnover)",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "LA PARFUMERIE EUROPE",
+          "target_location": "Monaco, Paris (75)",
+          "target_country": "France",
+          "target_sectors": "Biens de consommation",
+          "target_business_description": "Distribution de parfums de marques aux employés d’entreprises et des services publics à travers leurs Comités d’Entreprise",
+          "investment_date": "2017",
+          "investment_type": null,
+          "investment_amount": "51 M€",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "MÄDER",
+          "target_location": "Lille (59)",
+          "target_country": "France (Europe, Asie for commercial zone)",
+          "target_sectors": "Services aux entreprises",
+          "target_business_description": "Conception, fabrication et commercialisation de peintures et résines à fort contenu technologique. Marché: Ferroviaire, aéronautique, cosmétique, automobile, GSB, bâtiment, transport, grand public.",
+          "investment_date": "2010",
+          "investment_type": null,
+          "investment_amount": "165 M€ (2016 turnover)",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "MORIA",
+          "target_location": "Antony (92)",
+          "target_country": "Mondiale",
+          "target_sectors": "Santé",
+          "target_business_description": "Fabrication et distribution d'instruments et consommables ophtalmologiques (réfractive, cornée, cataracte, rétine)",
+          "investment_date": "2019",
+          "investment_type": null,
+          "investment_amount": "32 M€",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "NEMO",
+          "target_location": "Saint-Médard-de-Guizières (33) - Issy-les-Moulineaux (92)",
+          "target_country": "France",
+          "target_sectors": "Biens de consommation",
+          "target_business_description": "Distributeur et éditeur de loisirs et produits de grande diffusion destinés à la grande distribution",
+          "investment_date": "2011",
+          "investment_type": null,
+          "investment_amount": "n.a.",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "O2feel",
+          "target_location": "France",
+          "target_country": "France",
+          "target_sectors": "Electric Bicycles (E-bikes) Development and Manufacturing",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "OMIA",
+          "target_location": "ZI n°3 - 66 avenue Maryse Bastié 16340 L’ISLE d’ESPAGNAC",
+          "target_country": "France",
+          "target_sectors": "Manufacturing, Automotive Equipment, Industrial Surface Treatment, Paint Application Equipment, Automotive Repair, Industrial Finishing Lines",
+          "target_business_description": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "ONEDIRECT",
+          "target_location": "Saint Estève (66)",
+          "target_country": "France, Italie, Espagne, Portugal, Allemagne, Pays-Bas, Belgique",
+          "target_sectors": "Technologie - Services informatiques",
+          "target_business_description": "Distribution multicanal d’équipements de téléphonie d’entreprise tels que téléphones filaires et sans fil, switchboards, casques et autres accessoires. Marché: Entreprises, professions libérales, artisans, commerçants, associations, collectivités",
+          "investment_date": "2016",
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "QUARTUS",
+          "target_location": "Paris (75)",
+          "target_country": "France",
+          "target_sectors": "Services immobiliers",
+          "target_business_description": "Maîtrise d’ouvrage, projets urbains, opérations immobilières",
+          "investment_date": "2010",
+          "investment_type": null,
+          "investment_amount": "283 M€ (2016)",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "REMINISCENCE",
+          "target_location": "Monaco",
+          "target_country": "France, Monaco",
+          "target_sectors": "Biens de consommation",
+          "target_business_description": "Développement des parfums de la marque Reminiscence",
+          "investment_date": "2020",
+          "investment_type": null,
+          "investment_amount": "9.7 M€",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "SFP Expansion",
+          "target_location": "Aix-en-Provence (13) / Puteaux (92)",
+          "target_country": "France",
+          "target_sectors": "Services aux entreprises",
+          "target_business_description": "Formation continue en e-learning et information numérique pour les professionnels de santé",
+          "investment_date": "2021",
+          "investment_type": null,
+          "investment_amount": "16 M€ (2020)",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "SIBLU",
+          "target_location": "Pessac (33)",
+          "target_country": "France, Pays-Bas",
+          "target_sectors": "Biens de consommation",
+          "target_business_description": "Exploitation de villages et camping sur le modèle propriétaires-occupants",
+          "investment_date": "2019",
+          "investment_type": null,
+          "investment_amount": "175 M€ (2019)",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "SOGELINK",
+          "target_location": "Caluire et Cuire (69)",
+          "target_country": "France",
+          "target_sectors": "Technologie - Services informatiques",
+          "target_business_description": "Solutions logicielles appliquées aux chantiers et réseaux. Marché: Documentation digitale",
+          "investment_date": "2016",
+          "investment_type": null,
+          "investment_amount": "32 M€ (2016)",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "TEUFEL",
+          "target_location": "Berlin, Allemagne",
+          "target_country": "Allemagne, Autriche, Suisse",
+          "target_sectors": "Biens de consommation",
+          "target_business_description": "Concepteur et distributeur de matériel audio en D2C sur internet via des webshops en propre. Marché: Particuliers.",
+          "investment_date": "2018",
+          "investment_type": null,
+          "investment_amount": "100 572 K€",
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "WEBINFLUENCE GROUP / ADCASH",
+          "target_location": "Tallinn (Estonie)",
+          "target_country": "Mondiale",
+          "target_sectors": "Services aux entreprises",
+          "target_business_description": "Affichage et gestion de campagnes publicitaires pour les PME (partout dans le monde)",
+          "investment_date": "2014",
+          "investment_type": null,
+          "investment_amount": "39 M€ (2016)",
+          "status": null,
+          "fund": "NAXICAP MID CAPS Investissements"
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://www.tikehaucapital.com/en/the-company/portfolio-companies?expertiselink=private-equity",
+      "Investor": "Tikehaucapital",
+      "Portfolio_description": "Tikehaucapital investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": "https://www.cebat.it/",
+          "target_company_name": "Cebat",
+          "target_location": null,
+          "target_country": "Italy",
+          "target_sectors": [
+            "Decarbonisation",
+            "Utility Infrastructure",
+            "Power Grid",
+            "Water",
+            "Telecoms"
+          ],
+          "target_business_description": "Founded in 1961, CEBAT is an Italian service provider in the utility infrastructure space, active in the installation of underground cable networks and maintenance services for the power grid, water and telecoms segments.",
+          "investment_date": "08/2024",
+          "investment_type": "Private Equity",
+          "investment_amount": null,
+          "status": "Owned",
+          "fund": null
+        },
+        {
+          "deal_url": "N/A",
+          "target_company_name": "Anthesis Group",
+          "target_location": "Global (with offices in multiple countries including Spain, France, Germany, Italy, Finland, Sweden, Brazil, Australia, South Africa, Netherlands, Colombia, and Middle East)",
+          "target_country": "Global",
+          "target_sectors": [
+            "Agribusiness",
+            "Apparel & Textiles",
+            "Financial Services",
+            "Food Systems",
+            "Government & Public Services",
+            "Health & Pharmaceuticals",
+            "Power & Utilities",
+            "Property",
+            "Retail",
+            "Technology"
+          ],
+          "target_business_description": "Anthesis Group is a global sustainability consultancy dedicated to accelerating progress towards a world where businesses thrive in harmony with the environment and global communities. They guide clients to sustainable performance through an end-to-end journey that is impact-led and solution-oriented. Their services encompass areas like brand and communications, carbon credits & projects, education & engagement, environmental management services, environmental, social, and governance (ESG) strategies, human rights & social impact, innovation & capital solutions, nature-positive approaches, net zero & decarbonisation, purpose strategy, reporting, sustainable products and circularity, supply chain sustainability & responsible sourcing, and sustainable finance & transactions. They also offer digital solutions to unlock efficiency and innovation.",
+          "investment_date": "N/A",
+          "investment_type": "N/A",
+          "investment_amount": "N/A",
+          "status": "N/A",
+          "fund": "N/A"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Vulcain Engineering Group",
+          "target_location": "International presence; job locations mentioned include Flamanville, Rouen, Montluçon (France), and Bristol, Basingstoke, Cardiff, Bridgwater, Somerset (UK).",
+          "target_country": "France, United Kingdom (with international presence)",
+          "target_sectors": [
+            "Nuclear",
+            "Renewable energies",
+            "Gas, Biogas, Hydrogen and LNG",
+            "Energy networks",
+            "Process industry",
+            "Infrastructure and Railway",
+            "Naval",
+            "Health and life science"
+          ],
+          "target_business_description": "Vulcain Engineering Group is a multisectoral consulting and engineering firm focused on transforming industrial and technological challenges into opportunities. They combine expertise, innovation, and performance to build the future across diverse sectors. As of 2024, the group reports a turnover of 620 M€, produces 2 million hours of studies from 20 specialized offices, employs over 6000 people, and has 34% of its capital held by employees.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": "https://biofirstgroup.com",
+          "target_company_name": "BioFirst Group",
+          "target_location": "Ilse Velden 18, 2260 Westerlo",
+          "target_country": "Belgium",
+          "target_sectors": [
+            "Agriculture",
+            "Biotechnology",
+            "Crop Protection",
+            "Horticulture",
+            "Agri-tech"
+          ],
+          "target_business_description": "BioFirst Group is a global leader and pure player in biological crop protection, health, and nutrition. It drives the future of sustainable agriculture by providing effective and affordable biological crop solutions to greenhouse growers and open-field crop farmers worldwide. The company operates across 4 core brands (Biobest, BioWorks, Plant Products, Biotrop), focusing on sustainable innovation in areas like beneficial insects, pollination, biopesticides, biostimulants, biofertilizers, and technical advice.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": "Active",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Brandart",
+          "target_location": "Busto Arsizio, VA",
+          "target_country": "Italy",
+          "target_sectors": [
+            "Sustainable Packaging",
+            "Visual Merchandising",
+            "Procurement Solutions",
+            "Eco-Design",
+            "Manufacturing",
+            "Supply Chain Management",
+            "Retail Solutions"
+          ],
+          "target_business_description": "Brandart provides end-to-end sustainable packaging and visual merchandising procurement solutions, including eco-design, in-house research & development, global sourcing, manufacturing engineering, logistics, stock management, distribution, and inventory management. The company partners with global brands to reduce their carbon footprint across their business, manufacturing supply chain, and product life cycle.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.crowdoutside.com/",
+          "target_company_name": "CROWD",
+          "target_location": "Hilversum, The Netherlands",
+          "target_country": "The Netherlands",
+          "target_sectors": [
+            "Street furniture",
+            "Public sheltering",
+            "Bicycle parking infrastructure",
+            "Smart city solutions",
+            "Circularity",
+            "Public space design"
+          ],
+          "target_business_description": "CROWD, legally CReators of the Outside WorlD B.V., is a young and innovative group of established companies involved in designing the public space. It aims to make a conscious contribution to the living environment by developing products through its subsidiary companies, including Velopa B.V, Cyclepods Ltd, Ziegler Metallbearbeitung, Lumiguide B.V, Bailey Street Furniture Group, HITSA A/S, and Crowd Armada mobility B.V. CROWD strives to be the leading group in street furniture, public sheltering, and bicycle parking infrastructure across western Europe, with a key focus on Circularity and Smart city solutions.",
+          "investment_date": null,
+          "investment_type": "Majority Equity",
+          "investment_amount": null,
+          "status": "Active (owned in the majority)",
+          "fund": "Tikehau Capital"
+        },
+        {
+          "deal_url": "https://www.bt2igroup.com/",
+          "target_company_name": "BT2i Group",
+          "target_location": "Merignac",
+          "target_country": "France",
+          "target_sectors": [
+            "Aerospace",
+            "Manufacturing",
+            "Precision Machining",
+            "Boilermaking",
+            "Assembly"
+          ],
+          "target_business_description": "BT2i Group specializes in boilermaking, precision machining of mechanical parts (from small to very large dimensions), and the assembly of complex sub-assemblies. The group primarily operates in the aeronautics sector, focusing on delivering complex services with efficiency, quality, on-time delivery, productivity, and customer satisfaction. They have 70 years of expertise in aerospace.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.crouzet.fr/",
+          "target_company_name": "Crouzet",
+          "target_location": "France",
+          "target_country": "France",
+          "target_sectors": [
+            "Aerospace",
+            "Industrial Automation",
+            "Energy",
+            "Building Technology",
+            "Medical Devices",
+            "Machinery",
+            "Rail Transport",
+            "Automotive",
+            "Defense"
+          ],
+          "target_business_description": "Crouzet is a global manufacturer of mechatronic components for demanding and critical applications. Their product portfolio includes DC motors, microswitches, position sensors, structural monitoring sensors, AC synchronous and DC stepper motors, electromechanical actuators, proximity sensors, hermetic relays, solid-state relays, timer relays, monitoring relays, counters, logic controllers, circuit breakers, and human-machine interfaces. They serve a wide range of markets including Aeronautics (commercial aircraft, helicopters, eVTOLs, space), Industry (energy, building, medical, machinery), and Terrestrial Transport (railway, off-road vehicles, road vehicles, military). Crouzet operates 10 factories and 4 R&D centers globally, holds over 200 patents since 1921, and is certified ISO 9001 and EN 9100.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        }
+      ]
+    },
+    {
+      "Investor_portfolio_url": "https://www.galiena-capital.com/portefeuille/",
+      "Investor": "Galiena Capital",
+      "Portfolio_description": "Galiena Capital investment portfolio.",
+      "Deals": [
+        {
+          "deal_url": null,
+          "target_company_name": "3DISC",
+          "target_location": "Herndon, VA, USA; Courbevoie, France",
+          "target_country": "USA, France",
+          "target_sectors": [
+            "Digital Dentistry",
+            "Dental Technology",
+            "Medical Devices"
+          ],
+          "target_business_description": "3DISC is a private company with operations in the United States and France, dedicated to revolutionizing the future of digital dentistry. They provide comprehensive digital solutions, with a particular focus on intra-oral scanners (such as OVO3 and OVO) and dental software (like Scan&Tell and 3DISC Clinic) designed to improve clinical precision, efficiency, and patient communication in dental practices.",
+          "investment_date": "Not Found",
+          "investment_type": "Not Found",
+          "investment_amount": "Not Found",
+          "status": "Not Found",
+          "fund": "Galiena Capital"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "CAMEO ENERGY",
+          "target_location": "Paris",
+          "target_country": "France",
+          "target_sectors": [
+            "Energy Efficiency",
+            "Certificats d’Économies d’Énergie (CEE)",
+            "Consulting",
+            "Financing",
+            "Digital Tools",
+            "Agriculture",
+            "Industry",
+            "Residential",
+            "Networks",
+            "Tertiary (Commercial)",
+            "Installers",
+            "Manufacturers & Distributors",
+            "Project Owners",
+            "Businesses",
+            "Communities"
+          ],
+          "target_business_description": "CAMEO ENERGY is a company with 10 years of experience specializing in energy efficiency. They help clients optimize energy consumption and benefit from financial incentives like Certificats d'Économies d'Énergie (CEE). They offer tailored advice, financing solutions, and support for energy-saving projects, from audit to receiving CEE premiums. They also develop digital tools for energy management. CAMEO ENERGY serves various sectors including agriculture, industry, residential, networks, and tertiary, and collaborates with installers, manufacturers, and project owners.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": "Information not found. The page explicitly states 'Page not found - Galiena Capital'.",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "I-4S",
+          "target_location": [
+            {
+              "type": "Production Site",
+              "address": "47 rue des Églantiers, 57660 Grostenquin",
+              "country": "France"
+            },
+            {
+              "type": "Commercial Service",
+              "address": "203 rue du Parc, L3542 Dudelange",
+              "country": "Luxembourg"
+            }
+          ],
+          "target_country": [
+            "France",
+            "Luxembourg"
+          ],
+          "target_sectors": "Shelter Manufacturing, Specialized Temporary Structures, Defense, Emergency Services, Civil Security",
+          "target_business_description": "I-4S designs, manufactures, and supplies robust, rapidly deployable, and adaptable modular tents and shelters. With 40 years of experience, their patented products are designed to withstand harsh conditions (e.g., winds over 130 km/h, snow loads over 50 kg/m²) and are used in various critical applications. These include military base camps, field hospitals and medical posts, command posts, NRBC/COLPRO (nuclear, radiological, biological, chemical protection) decontamination units, and mobile workshops. The company provides a full service, from needs analysis and project realization to commissioning, training, and maintenance.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "SATEB",
+          "target_location": "Normandie, Rouen agglomeration, Évreux agglomeration, Paris region",
+          "target_country": "France",
+          "target_sectors": [
+            "Construction",
+            "Renovation",
+            "Plumbing",
+            "Heating",
+            "Ventilation",
+            "Air Conditioning",
+            "Building Services",
+            "Project Management"
+          ],
+          "target_business_description": "SATEB is a company based in Normandy, operating for over 40 years. It offers comprehensive services for new construction and renovation projects. Its operations primarily cover the Rouen, Évreux, and Paris regions. Services include installation and renovation of plumbing and fittings, heating and hot water production, various types of ventilation systems, and air conditioning and associated networks. SATEB also provides services for new housing, rehabilitation, tertiary sector work, project monitoring, logistics, and after-sales service.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.scentys.com/",
+          "target_company_name": "SCENTYS",
+          "target_location": "Not explicitly stated on the page (no physical address found).",
+          "target_country": "France",
+          "target_sectors": [
+            "Olfactory Marketing",
+            "Fragrance Diffusion",
+            "Perfume",
+            "Retail",
+            "Automotive",
+            "Hospitality",
+            "Real Estate",
+            "Perfumery & Cosmetics",
+            "Service Providers"
+          ],
+          "target_business_description": "Scentys specializes in olfactory marketing and space fragrancing, creating unique sensory experiences. The company offers patented high-tech fragrance diffusion solutions, developed over twenty years of experience and significant investments in Research & Development. Scentys partners with fine perfumery houses and international brands across various sectors, including retail and automotive, to help them develop their distinctive olfactory environments. Their technological offerings include dry fragrance diffusion, micro-nebulization, and connected diffusion systems. They also provide professional ambient perfumes for various spaces and thematic collections.",
+          "investment_date": "Not Found",
+          "investment_type": "Not Found",
+          "investment_amount": "Not Found",
+          "status": "Not Applicable (This page is about the company itself, not a specific investment into it)",
+          "fund": null,
+          "target_turnover": "Not found on the page.",
+          "target_employee_number": "Not found on the page."
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "PEC",
+          "target_location": "Pernes-les-Fontaines, Avignon",
+          "target_country": "France",
+          "target_sectors": [
+            "Landscaping",
+            "Green Space Development",
+            "Urban Planning (Green Spaces)"
+          ],
+          "target_business_description": "PEC is a family-owned company, founded in 1979, specializing in the design, development, and maintenance of gardens and urban green spaces. They operate with a strong focus on quality, customer service, and sustainable practices, including the use of native plants, water conservation, and natural methods. Historically based in Pernes-les-Fontaines and with offices in Avignon, PEC extends its services across the South of France (PACA, Rhône Alpes, Languedoc Roussillon, Midi-Pyrénées, and Aquitaine).",
+          "investment_date": "Not found",
+          "investment_type": "Not found",
+          "investment_amount": "Not found",
+          "status": "Not applicable (no investment information found)",
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.clufix.com/",
+          "target_company_name": "CLUFIX",
+          "target_location": "Cluses",
+          "target_country": "France",
+          "target_sectors": "Industrie",
+          "target_business_description": "Fixations techniques pour applications industrielles (Technical fasteners for industrial applications)",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": "Active (Participations en portefeuille)",
+          "fund": "Galiena Capital",
+          "target_turnover": "30m€",
+          "target_employee_no": "100"
+        },
+        {
+          "deal_url": "https://domusa-group.com/fr/domusa-fr/",
+          "target_company_name": "DOMUSA",
+          "target_location": "Not available from the provided image/URL.",
+          "target_country": "France",
+          "target_sectors": "Aeronautics",
+          "target_business_description": "Aeronautics – MRO and OEM platform for civil and military.",
+          "investment_date": "Not available from the provided image/URL. The '2023/07' in the URL likely refers to the image upload date, not the investment date.",
+          "investment_type": "Not available from the provided image/URL.",
+          "investment_amount": "Not available from the provided image/URL.",
+          "status": "Active (In Portfolio)",
+          "fund": "Galiena Capital",
+          "target_turnover": "45m€",
+          "target_employee_no": "230"
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Ediser (ENPC-EDISER)",
+          "target_location": null,
+          "target_country": "France (inferred from French language and specific product references like 'Permis B', 'CACES®')",
+          "target_sectors": [
+            "Driver Education",
+            "Vocational Training",
+            "Safety Training",
+            "Pedagogical Materials Publishing",
+            "Digital Learning Solutions"
+          ],
+          "target_business_description": "Ediser (ENPC-EDISER) is a company that designs, publishes, and distributes a comprehensive range of pedagogical tools and training resources for professionals and educational institutions. Their offerings span various fields including driver education (for light vehicles, motorcycles, and heavy vehicles), vocational training (such as transport, handling, and construction machinery operation), first aid, safety prevention (covering topics like fire, electrical hazards, and working at height), and navigation. They provide both physical products (like books, kits, and accessories) and digital solutions (including e-learning and simulation tools) to support professional training and educational needs.",
+          "investment_date": "Not available on this page",
+          "investment_type": "Not available on this page",
+          "investment_amount": "Not available on this page",
+          "status": "Not applicable (this page describes the company's offerings, not its investment status)",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Extruflex",
+          "target_location": "25 rue Greffulhe 92300 Levallois Perret",
+          "target_country": "France",
+          "target_sectors": [
+            "Plastics Manufacturing",
+            "Industrial Materials",
+            "Construction Materials",
+            "Insulation Solutions"
+          ],
+          "target_business_description": "Extruflex designs, manufactures, and markets PVC strips, flexible panels, and transparent films for industrial doors, partitions, flexible windows, and geomembranes. Their products provide thermal, sound, and waterproofing solutions for industries, food processing, logistics, tents, and marquees.",
+          "investment_date": "Not found",
+          "investment_type": "Not found",
+          "investment_amount": "Not found",
+          "status": "Active (and expanding internationally, with operations in USA and China)",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "GENEX",
+          "target_location": "La Farlède",
+          "target_country": "France",
+          "target_sectors": [
+            "Logistics",
+            "Transportation",
+            "Equipment Rental",
+            "Construction Support Services"
+          ],
+          "target_business_description": "GENEX, also known as GETEX SAS, is a specialist in the rental of crane trucks with drivers. The company acts as a logistics partner, primarily offering annual contracts for the provision of specialized vehicles and drivers, as well as on-demand services for various types of trucks. They serve sectors such as construction materials, building, public works, nurseries, landscapers, and local authorities, primarily in the PACA and OCCITANIE regions.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.groupetransatlantic.com",
+          "target_company_name": "GROUPE TRANSATLANTIC",
+          "target_location": "Issy-les-Moulineaux",
+          "target_country": "France",
+          "target_sectors": [
+            "Audiovisual Industry",
+            "Digital Media Solutions",
+            "Media Technology",
+            "Content Management (DAM/MAM)",
+            "Post-Production",
+            "Content Localization",
+            "Film Restoration",
+            "Studio Services"
+          ],
+          "target_business_description": "GROUPE TRANSATLANTIC is a creator of technical and digital media solutions for companies in the audiovisual industry and the institutional sector. They offer a wide range of services including Digital Asset Management (DAM) and Media Asset Management (MAM) platforms, content distribution, collaboration tools, management of audiovisual heritage, creation of promotional and additional content, executive production, studio rentals in Paris (15th arrondissement), technical and editorial verification, post-production (editing, color grading, mixing, special effects), audiovisual laboratory services, content localization (subtitling, voice-over), accessibility solutions (subtitles for deaf/hard of hearing, audio description), restoration of heritage films, 4K projection room services, and intellectual property consulting. Their clients include major players in SVoD/VoD, television, and CAC40 companies.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": "Operating",
+          "fund": null,
+          "target_turnover": "0 M€",
+          "target_employee_no": 0
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "3DiS Technologies",
+          "target_location": [
+            {
+              "type": "Office Address",
+              "address": "478 rue de la Découverte, CS 67624, 31676 Labège, France"
+            },
+            {
+              "type": "Fabrication Facility",
+              "address": "7 avenue du Colonel Roche – 31400 Toulouse, France"
+            }
+          ],
+          "target_country": "France",
+          "target_sectors": "Semiconductor & Electronics Packaging/Integration Technology",
+          "target_business_description": null,
+          "target_turnover": "Not found",
+          "target_employee_number": "Not found",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "VERTEGO",
+          "target_location": "4 rue Johannes Kepler, 64000 PAU",
+          "target_country": "France",
+          "target_sectors": "Education & Training (specifically IT and Management Training)",
+          "target_business_description": null,
+          "target_turnover": "Not found on the page. The page mentions '39477 h de formation dispensées' and '2625 Stagiaires formés' for 2023, but no financial turnover.",
+          "target_employee_number": "95 Formateurs (trainers) as of 2023. A total employee number is not explicitly stated.",
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Domusa Group",
+          "target_location": null,
+          "target_country": "France",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": "Not found",
+          "investment_type": "Not found",
+          "investment_amount": "Not found",
+          "status": "Not found",
+          "fund": null
+        },
+        {
+          "deal_url": "https://www.hacare.com/en/home/",
+          "target_company_name": "HACARE",
+          "target_location": "France",
+          "target_country": "France",
+          "target_sectors": [
+            "Healthcare",
+            "Medical Furniture",
+            "Homecare",
+            "Nursing Home Equipment",
+            "Hospital Care"
+          ],
+          "target_business_description": "HACARE (Groupe HAcare) designs and manufactures medical furniture and solutions. Their product range includes nursing beds and a wide variety of furniture for home care, nursing homes, and hospitals. The company focuses on enhancing patient comfort, safety, and mobility, aiming to prevent falls, limit pressure sores, and preserve autonomy. They emphasize sustainable development, eco-design, and local production ('Made in France') by integrating environmental indicators from the design phase, using renewable resources, and promoting a circular industrial model.",
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": "Not found",
+          "investment_type": "Not found",
+          "investment_amount": "Not found",
+          "status": "Operating",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "I-4S, Innovation for shelter",
+          "target_location": null,
+          "target_country": "Luxembourg (Group commercial office), France (Production)",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": "Not Found",
+          "investment_type": "Not Applicable (Company formation/restructuring details provided, not external investment)",
+          "investment_amount": "Not Found",
+          "status": "Current",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "ASERTI",
+          "target_location": null,
+          "target_country": "France",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "LEGAL2DIGITAL",
+          "target_location": null,
+          "target_country": "France",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "PROENGIN",
+          "target_location": null,
+          "target_country": "France",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": "Not found",
+          "investment_type": "Not found",
+          "investment_amount": "Not found",
+          "status": "Not found",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "SCAFF HOLDING",
+          "target_location": null,
+          "target_country": "France (inferred, as Entrepose Echafaudages operates with 15 agencies in France and has French subsidiaries)",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": "N/A (Not found on page)",
+          "investment_type": "N/A (Not found on page)",
+          "investment_amount": "N/A (Not found on page)",
+          "status": "N/A (Not found on page)",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "SET Environnement",
+          "target_location": null,
+          "target_country": "France",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": null,
+          "investment_type": "Subsidiary",
+          "investment_amount": null,
+          "status": "Current",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "SIB",
+          "target_location": null,
+          "target_country": "France (implied by 'Contacts France', 'Réseau commercial France')",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": "Not found on this page",
+          "investment_type": "Not found on this page",
+          "investment_amount": "Not found on this page",
+          "status": "N/A (No investment information found)",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "Spartner Travel",
+          "target_location": null,
+          "target_country": "Not specified",
+          "target_sectors": null,
+          "target_business_description": null,
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": "N/A",
+          "investment_type": "N/A",
+          "investment_amount": "N/A",
+          "status": "N/A",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "ENPC - Ediser",
+          "target_location": null,
+          "target_country": "France",
+          "target_sectors": [
+            "Education",
+            "Training",
+            "Automotive",
+            "Safety",
+            "Publishing"
+          ],
+          "target_business_description": "ENPC - Ediser is a company providing pedagogical tools and digital solutions for professionals in various fields including driving education (light vehicles, two-wheelers, heavy vehicles), professional training (e.g., CACES, FIMO, FCO), first aid, prevention, and navigation permits. They offer books, kits, multimedia materials, and digital content.",
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": null,
+          "fund": null
+        },
+        {
+          "deal_url": "http://groupegenex.fr",
+          "target_company_name": "Groupe Genex",
+          "target_location": "La Farlède",
+          "target_country": "France",
+          "target_sectors": [
+            "Transportation",
+            "Logistics",
+            "Construction Services"
+          ],
+          "target_business_description": "Groupe Genex (which includes GETEX SAS) specializes in the rental of crane trucks with drivers and provides comprehensive logistics services. The group operates a fleet of over 400 vehicles primarily in the PACA and Occitanie regions of France. They offer services through annual contracts or on-demand, providing specialized vehicles and drivers for various sectors including construction materials (wholesale, GMS, specialists), building, public works, nurseries, landscapers, and local authorities.",
+          "target_turnover": null,
+          "target_employee_no": 400,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": "Active",
+          "fund": null
+        },
+        {
+          "deal_url": null,
+          "target_company_name": "I-4S GEIE - INNOVATION FOR SHELTER",
+          "target_location": "Production Site: 47 rue des Églantiers, 57660 Grostenquin, France; Commercial Service: 203 rue du Parc, L3542 Dudelange, Luxembourg",
+          "target_country": "France, Luxembourg",
+          "target_sectors": [
+            "Manufacturing",
+            "Defense",
+            "Emergency Services",
+            "Humanitarian Aid",
+            "Military Equipment",
+            "Shelters",
+            "Tents"
+          ],
+          "target_business_description": "I-4S (Innovation for Shelter) is a company that has been manufacturing modular tents and shelters for 40 years. They specialize in quickly deployable, robust, and reliable temporary structures designed to withstand harsh conditions (e.g., winds over 130 km/h, snow loads over 50 kg/m²). Their product range includes tents for various applications such as field camps (housing, offices), medical facilities (field hospitals, surgical posts), sunshades, command posts, and NBC/COLPRO protection. They also provide accessories like lighting, HVAC systems, electrical distribution, and storage solutions. I-4S emphasizes client support, from analyzing needs and project realization to providing training, maintenance, and logistical support.",
+          "target_turnover": null,
+          "target_employee_no": null,
+          "investment_date": null,
+          "investment_type": null,
+          "investment_amount": null,
+          "status": "Operational",
+          "fund": null
+        }
+      ]
+    }
+  ],
+  "total_deals": 203,
+  "last_updated": "2025-06-10T18:23:51.875021"
+}
